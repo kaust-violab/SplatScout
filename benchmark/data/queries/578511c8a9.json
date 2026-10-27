@@ -1,0 +1,241 @@
+{
+ "scene_id": "578511c8a9",
+ "version": "v5",
+ "n_queries": 16,
+ "queries": [
+  {
+   "qid": "q460182c99f",
+   "text": "the door of the cabinet that the 3D printer stands on",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P105",
+     "part_id": "obj88_door_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q7539d9ebee",
+   "text": "the bottom drawer of the wheeled cabinet under the bench with the lamp",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P99",
+     "part_id": "obj86_drawer_3"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qe189aa837f",
+   "text": "the lid of the wheelie bin that stands between the other two",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P33",
+     "part_id": "obj4_trash_can_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q93634b8e0a",
+   "text": "the lid of the wheelie bin standing nearest the big cardboard box",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P32",
+     "part_id": "obj3_trash_can_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q81d064b4ad",
+   "text": "the workbench with two matching drawer banks built in under its top",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "19",
+     "obj_id": 19
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qf0f9c62132",
+   "text": "the cardboard box with its lid folded flat down over its side",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "44",
+     "obj_id": 44
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q1d1051f6ce",
+   "text": "the pedestal fan standing beside the open lid of the big cardboard box",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "2",
+     "obj_id": 2
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q57bff18217",
+   "text": "the office chair standing next to the drawers of the electronics bench without back",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "128",
+     "obj_id": 128
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q30f03ce2df",
+   "text": "the whiteboard lying flat on top of a desk",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "42",
+     "obj_id": 42
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q36c555fcc0",
+   "text": "the monitor standing immediately next to the jug",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "33",
+     "obj_id": 33
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qb43e390fe5",
+   "text": "the air conditioner with the small carton pushed against its base",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "69",
+     "obj_id": 69
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q6d9666ce9e",
+   "text": "the studio light standing closest to the fire extinguisher",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "174",
+     "obj_id": 174
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q6990c97dcd",
+   "text": "the white bin standing under the desk next to the pillar",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "182",
+     "obj_id": 182
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qc3b4b57ddb",
+   "text": "the desk with the oscilloscope standing on it",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "10",
+     "obj_id": 10
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q38c635b421",
+   "text": "the two computer towers standing up on the desktops",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "40",
+     "obj_id": 40
+    },
+    {
+     "kind": "obj",
+     "tag": "41",
+     "obj_id": 41
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q2439b02029",
+   "text": "the two wooden crates stacked under the big cardboard box",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "13",
+     "obj_id": 13
+    },
+    {
+     "kind": "obj",
+     "tag": "45",
+     "obj_id": 45
+    }
+   ],
+   "needs_id": false
+  }
+ ]
+}

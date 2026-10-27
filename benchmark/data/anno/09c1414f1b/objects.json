@@ -1,0 +1,1980 @@
+{
+ "scene_id": "09c1414f1b",
+ "n_vertices": 3383834,
+ "objects": [
+  {
+   "obj_id": 1,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1032
+  },
+  {
+   "obj_id": 2,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1934
+  },
+  {
+   "obj_id": 3,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 2276
+  },
+  {
+   "obj_id": 4,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 14515
+  },
+  {
+   "obj_id": 5,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 19478
+  },
+  {
+   "obj_id": 6,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 1653
+  },
+  {
+   "obj_id": 7,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 1542
+  },
+  {
+   "obj_id": 8,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 2688
+  },
+  {
+   "obj_id": 9,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1646
+  },
+  {
+   "obj_id": 10,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 20416
+  },
+  {
+   "obj_id": 11,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 5631
+  },
+  {
+   "obj_id": 12,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 221790
+  },
+  {
+   "obj_id": 13,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1141
+  },
+  {
+   "obj_id": 14,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 7281
+  },
+  {
+   "obj_id": 15,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1344
+  },
+  {
+   "obj_id": 16,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 3271
+  },
+  {
+   "obj_id": 17,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1057
+  },
+  {
+   "obj_id": 18,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1304
+  },
+  {
+   "obj_id": 19,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 4339
+  },
+  {
+   "obj_id": 20,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 12087
+  },
+  {
+   "obj_id": 21,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 6060
+  },
+  {
+   "obj_id": 22,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 1757
+  },
+  {
+   "obj_id": 23,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 2118
+  },
+  {
+   "obj_id": 24,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 5830
+  },
+  {
+   "obj_id": 25,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1084
+  },
+  {
+   "obj_id": 26,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1221
+  },
+  {
+   "obj_id": 27,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1385
+  },
+  {
+   "obj_id": 28,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 47815
+  },
+  {
+   "obj_id": 29,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 2037
+  },
+  {
+   "obj_id": 30,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 9388
+  },
+  {
+   "obj_id": 31,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 10008
+  },
+  {
+   "obj_id": 32,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1805
+  },
+  {
+   "obj_id": 33,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1247
+  },
+  {
+   "obj_id": 34,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 12426
+  },
+  {
+   "obj_id": 35,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1188
+  },
+  {
+   "obj_id": 36,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 3090
+  },
+  {
+   "obj_id": 37,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 12157
+  },
+  {
+   "obj_id": 38,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 19031
+  },
+  {
+   "obj_id": 39,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 11707
+  },
+  {
+   "obj_id": 40,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 151
+  },
+  {
+   "obj_id": 41,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 123
+  },
+  {
+   "obj_id": 42,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 11916
+  },
+  {
+   "obj_id": 43,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 7614
+  },
+  {
+   "obj_id": 44,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 187
+  },
+  {
+   "obj_id": 45,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 299
+  },
+  {
+   "obj_id": 46,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 36
+  },
+  {
+   "obj_id": 47,
+   "label": "sofa",
+   "status": "kept",
+   "n_verts": 108545
+  },
+  {
+   "obj_id": 48,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 145
+  },
+  {
+   "obj_id": 49,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 18418,
+   "a3d_link": [
+    "door frame.16.1"
+   ]
+  },
+  {
+   "obj_id": 50,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 131
+  },
+  {
+   "obj_id": 51,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 8641,
+   "a3d_link": [
+    "door frame.119.1"
+   ]
+  },
+  {
+   "obj_id": 52,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 7151
+  },
+  {
+   "obj_id": 53,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 10373,
+   "a3d_link": [
+    "door frame.121.1"
+   ]
+  },
+  {
+   "obj_id": 54,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 12957
+  },
+  {
+   "obj_id": 55,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 748
+  },
+  {
+   "obj_id": 56,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 33
+  },
+  {
+   "obj_id": 57,
+   "label": "bookshelf",
+   "status": "kept",
+   "n_verts": 40178
+  },
+  {
+   "obj_id": 58,
+   "label": "bookshelf",
+   "status": "kept",
+   "n_verts": 38617
+  },
+  {
+   "obj_id": 59,
+   "label": "picture",
+   "status": "kept",
+   "n_verts": 2054
+  },
+  {
+   "obj_id": 60,
+   "label": "picture",
+   "status": "kept",
+   "n_verts": 1645
+  },
+  {
+   "obj_id": 61,
+   "label": "counter",
+   "status": "kept",
+   "n_verts": 10657
+  },
+  {
+   "obj_id": 62,
+   "label": "refrigerator",
+   "status": "kept",
+   "n_verts": 370
+  },
+  {
+   "obj_id": 63,
+   "label": "sink",
+   "status": "kept",
+   "n_verts": 332
+  },
+  {
+   "obj_id": 64,
+   "label": "ceiling",
+   "status": "kept",
+   "n_verts": 59769
+  },
+  {
+   "obj_id": 65,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 460
+  },
+  {
+   "obj_id": 66,
+   "label": "ceiling light",
+   "status": "kept",
+   "n_verts": 2030
+  },
+  {
+   "obj_id": 67,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 4668
+  },
+  {
+   "obj_id": 68,
+   "label": "switch",
+   "status": "kept",
+   "n_verts": 141
+  },
+  {
+   "obj_id": 69,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 7071
+  },
+  {
+   "obj_id": 70,
+   "label": "doorframe",
+   "status": "kept",
+   "n_verts": 5729
+  },
+  {
+   "obj_id": 71,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 14333,
+   "a3d_link": [
+    "door frame.122.1"
+   ]
+  },
+  {
+   "obj_id": 72,
+   "label": "doorframe",
+   "status": "kept",
+   "n_verts": 5096
+  },
+  {
+   "obj_id": 73,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 614
+  },
+  {
+   "obj_id": 74,
+   "label": "doorframe",
+   "status": "kept",
+   "n_verts": 5834
+  },
+  {
+   "obj_id": 75,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1794
+  },
+  {
+   "obj_id": 76,
+   "label": "doorframe",
+   "status": "kept",
+   "n_verts": 10546,
+   "a3d_link": [
+    "door frame.120.1"
+   ]
+  },
+  {
+   "obj_id": 77,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 223
+  },
+  {
+   "obj_id": 78,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 481
+  },
+  {
+   "obj_id": 79,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 2467
+  },
+  {
+   "obj_id": 80,
+   "label": "shelf",
+   "status": "kept",
+   "n_verts": 3709
+  },
+  {
+   "obj_id": 81,
+   "label": "shelf",
+   "status": "kept",
+   "n_verts": 1853
+  },
+  {
+   "obj_id": 82,
+   "label": "picture",
+   "status": "kept",
+   "n_verts": 1940
+  },
+  {
+   "obj_id": 83,
+   "label": "switch",
+   "status": "kept",
+   "n_verts": 412
+  },
+  {
+   "obj_id": 84,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 566
+  },
+  {
+   "obj_id": 85,
+   "label": "picture",
+   "status": "kept",
+   "n_verts": 2261
+  },
+  {
+   "obj_id": 86,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1918
+  },
+  {
+   "obj_id": 87,
+   "label": "floor lamp",
+   "status": "kept",
+   "n_verts": 7587
+  },
+  {
+   "obj_id": 88,
+   "label": "carpet",
+   "status": "kept",
+   "n_verts": 155803
+  },
+  {
+   "obj_id": 89,
+   "label": "coffee table",
+   "status": "kept",
+   "n_verts": 17682
+  },
+  {
+   "obj_id": 90,
+   "label": "pillow",
+   "status": "kept",
+   "n_verts": 3459
+  },
+  {
+   "obj_id": 91,
+   "label": "pillow",
+   "status": "kept",
+   "n_verts": 4062
+  },
+  {
+   "obj_id": 92,
+   "label": "blanket",
+   "status": "kept",
+   "n_verts": 8687
+  },
+  {
+   "obj_id": 93,
+   "label": "blanket",
+   "status": "kept",
+   "n_verts": 2732
+  },
+  {
+   "obj_id": 94,
+   "label": "blanket",
+   "status": "kept",
+   "n_verts": 34406
+  },
+  {
+   "obj_id": 95,
+   "label": "remote controller",
+   "status": "kept",
+   "n_verts": 168
+  },
+  {
+   "obj_id": 96,
+   "label": "coaster",
+   "status": "kept",
+   "n_verts": 69
+  },
+  {
+   "obj_id": 97,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 202
+  },
+  {
+   "obj_id": 98,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 1315
+  },
+  {
+   "obj_id": 99,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 2913
+  },
+  {
+   "obj_id": 100,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 1178
+  },
+  {
+   "obj_id": 101,
+   "label": "backpack",
+   "status": "kept",
+   "n_verts": 6050
+  },
+  {
+   "obj_id": 102,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 85949,
+   "a3d_link": [
+    "cabinet.20.1"
+   ]
+  },
+  {
+   "obj_id": 103,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 654
+  },
+  {
+   "obj_id": 104,
+   "label": "speaker",
+   "status": "kept",
+   "n_verts": 370
+  },
+  {
+   "obj_id": 105,
+   "label": "speaker",
+   "status": "kept",
+   "n_verts": 467
+  },
+  {
+   "obj_id": 106,
+   "label": "tv",
+   "status": "kept",
+   "n_verts": 55273
+  },
+  {
+   "obj_id": 107,
+   "label": "sofa chair",
+   "status": "kept",
+   "n_verts": 29391
+  },
+  {
+   "obj_id": 108,
+   "label": "footstool",
+   "status": "kept",
+   "n_verts": 7150
+  },
+  {
+   "obj_id": 109,
+   "label": "floor lamp",
+   "status": "kept",
+   "n_verts": 5886
+  },
+  {
+   "obj_id": 110,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 4304
+  },
+  {
+   "obj_id": 111,
+   "label": "hat",
+   "status": "kept",
+   "n_verts": 2019
+  },
+  {
+   "obj_id": 112,
+   "label": "plant pot",
+   "status": "kept",
+   "n_verts": 1096
+  },
+  {
+   "obj_id": 113,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 5063
+  },
+  {
+   "obj_id": 114,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 557
+  },
+  {
+   "obj_id": 115,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 588
+  },
+  {
+   "obj_id": 116,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 170
+  },
+  {
+   "obj_id": 117,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 140
+  },
+  {
+   "obj_id": 118,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 887
+  },
+  {
+   "obj_id": 119,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1264
+  },
+  {
+   "obj_id": 120,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1876
+  },
+  {
+   "obj_id": 121,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 865
+  },
+  {
+   "obj_id": 122,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 879
+  },
+  {
+   "obj_id": 123,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 352
+  },
+  {
+   "obj_id": 124,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 345
+  },
+  {
+   "obj_id": 125,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 599
+  },
+  {
+   "obj_id": 126,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 6873
+  },
+  {
+   "obj_id": 127,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 924
+  },
+  {
+   "obj_id": 128,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 3163
+  },
+  {
+   "obj_id": 129,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 809
+  },
+  {
+   "obj_id": 130,
+   "label": "plant pot",
+   "status": "kept",
+   "n_verts": 3756
+  },
+  {
+   "obj_id": 131,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 18557
+  },
+  {
+   "obj_id": 132,
+   "label": "stick",
+   "status": "kept",
+   "n_verts": 1416
+  },
+  {
+   "obj_id": 133,
+   "label": "dining table",
+   "status": "kept",
+   "n_verts": 18367
+  },
+  {
+   "obj_id": 134,
+   "label": "dining chair",
+   "status": "kept",
+   "n_verts": 10089
+  },
+  {
+   "obj_id": 135,
+   "label": "dining chair",
+   "status": "kept",
+   "n_verts": 13379
+  },
+  {
+   "obj_id": 136,
+   "label": "dining chair",
+   "status": "kept",
+   "n_verts": 10755
+  },
+  {
+   "obj_id": 137,
+   "label": "dining chair",
+   "status": "kept",
+   "n_verts": 10835
+  },
+  {
+   "obj_id": 138,
+   "label": "dining chair",
+   "status": "kept",
+   "n_verts": 5623
+  },
+  {
+   "obj_id": 139,
+   "label": "plant pot",
+   "status": "kept",
+   "n_verts": 1167
+  },
+  {
+   "obj_id": 140,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 662
+  },
+  {
+   "obj_id": 141,
+   "label": "curtain",
+   "status": "kept",
+   "n_verts": 20129
+  },
+  {
+   "obj_id": 142,
+   "label": "windowframe",
+   "status": "kept",
+   "n_verts": 39656,
+   "a3d_link": [
+    "window frame.17.1"
+   ]
+  },
+  {
+   "obj_id": 143,
+   "label": "curtain",
+   "status": "kept",
+   "n_verts": 30869,
+   "a3d_link": [
+    "blinds rail.18.1"
+   ]
+  },
+  {
+   "obj_id": 144,
+   "label": "picture",
+   "status": "kept",
+   "n_verts": 5774
+  },
+  {
+   "obj_id": 145,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 151630
+  },
+  {
+   "obj_id": 146,
+   "label": "switch",
+   "status": "kept",
+   "n_verts": 142
+  },
+  {
+   "obj_id": 147,
+   "label": "doorframe",
+   "status": "kept",
+   "n_verts": 5341
+  },
+  {
+   "obj_id": 148,
+   "label": "carpet",
+   "status": "kept",
+   "n_verts": 6103
+  },
+  {
+   "obj_id": 149,
+   "label": "backpack",
+   "status": "kept",
+   "n_verts": 6692
+  },
+  {
+   "obj_id": 150,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 7302
+  },
+  {
+   "obj_id": 151,
+   "label": "shoe",
+   "status": "kept",
+   "n_verts": 1342
+  },
+  {
+   "obj_id": 152,
+   "label": "shoe",
+   "status": "kept",
+   "n_verts": 1257
+  },
+  {
+   "obj_id": 153,
+   "label": "suitcase",
+   "status": "kept",
+   "n_verts": 14174,
+   "a3d_link": [
+    "suitcase.19.1"
+   ]
+  },
+  {
+   "obj_id": 154,
+   "label": "bag",
+   "status": "kept",
+   "n_verts": 16179
+  },
+  {
+   "obj_id": 155,
+   "label": "flip flop",
+   "status": "kept",
+   "n_verts": 1881
+  },
+  {
+   "obj_id": 156,
+   "label": "flip flop",
+   "status": "kept",
+   "n_verts": 1347
+  },
+  {
+   "obj_id": 157,
+   "label": "boot",
+   "status": "kept",
+   "n_verts": 2500
+  },
+  {
+   "obj_id": 158,
+   "label": "boot",
+   "status": "kept",
+   "n_verts": 2020
+  },
+  {
+   "obj_id": 159,
+   "label": "shoe rack",
+   "status": "kept",
+   "n_verts": 28952
+  },
+  {
+   "obj_id": 160,
+   "label": "wall lamp",
+   "status": "kept",
+   "n_verts": 1506
+  },
+  {
+   "obj_id": 161,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1190
+  },
+  {
+   "obj_id": 162,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 710
+  },
+  {
+   "obj_id": 163,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 406
+  },
+  {
+   "obj_id": 164,
+   "label": "shoe",
+   "status": "kept",
+   "n_verts": 1071
+  },
+  {
+   "obj_id": 165,
+   "label": "shoe",
+   "status": "kept",
+   "n_verts": 1242
+  },
+  {
+   "obj_id": 166,
+   "label": "shoe",
+   "status": "kept",
+   "n_verts": 1458
+  },
+  {
+   "obj_id": 167,
+   "label": "shoe",
+   "status": "kept",
+   "n_verts": 1930
+  },
+  {
+   "obj_id": 168,
+   "label": "shoe",
+   "status": "kept",
+   "n_verts": 2534
+  },
+  {
+   "obj_id": 169,
+   "label": "shoe",
+   "status": "kept",
+   "n_verts": 2820
+  },
+  {
+   "obj_id": 170,
+   "label": "slipper",
+   "status": "kept",
+   "n_verts": 1051
+  },
+  {
+   "obj_id": 171,
+   "label": "slipper",
+   "status": "kept",
+   "n_verts": 666
+  },
+  {
+   "obj_id": 172,
+   "label": "slipper",
+   "status": "kept",
+   "n_verts": 1934
+  },
+  {
+   "obj_id": 173,
+   "label": "ceiling",
+   "status": "kept",
+   "n_verts": 112505
+  },
+  {
+   "obj_id": 174,
+   "label": "led ceiling fan",
+   "status": "kept",
+   "n_verts": 12970
+  },
+  {
+   "obj_id": 175,
+   "label": "bicycle",
+   "status": "kept",
+   "n_verts": 28953
+  },
+  {
+   "obj_id": 176,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 15918
+  },
+  {
+   "obj_id": 177,
+   "label": "bicycle",
+   "status": "kept",
+   "n_verts": 9
+  },
+  {
+   "obj_id": 178,
+   "label": "bicycle",
+   "status": "kept",
+   "n_verts": 35657
+  },
+  {
+   "obj_id": 179,
+   "label": "pumper",
+   "status": "kept",
+   "n_verts": 6154
+  },
+  {
+   "obj_id": 180,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 47614
+  },
+  {
+   "obj_id": 181,
+   "label": "power socket",
+   "status": "kept",
+   "n_verts": 178
+  },
+  {
+   "obj_id": 182,
+   "label": "helmet",
+   "status": "kept",
+   "n_verts": 1802
+  },
+  {
+   "obj_id": 183,
+   "label": "helmet",
+   "status": "kept",
+   "n_verts": 2403
+  },
+  {
+   "obj_id": 184,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 635
+  },
+  {
+   "obj_id": 185,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 578
+  },
+  {
+   "obj_id": 186,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 917
+  },
+  {
+   "obj_id": 187,
+   "label": "switch",
+   "status": "kept",
+   "n_verts": 128
+  },
+  {
+   "obj_id": 188,
+   "label": "surfboard",
+   "status": "kept",
+   "n_verts": 19464
+  },
+  {
+   "obj_id": 189,
+   "label": "structure",
+   "status": "dropped",
+   "n_verts": 2005
+  },
+  {
+   "obj_id": 190,
+   "label": "power socket",
+   "status": "kept",
+   "n_verts": 186
+  },
+  {
+   "obj_id": 191,
+   "label": "plant pot",
+   "status": "kept",
+   "n_verts": 1019
+  },
+  {
+   "obj_id": 192,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 5239
+  },
+  {
+   "obj_id": 193,
+   "label": "switch",
+   "status": "kept",
+   "n_verts": 124
+  },
+  {
+   "obj_id": 194,
+   "label": "spotlight",
+   "status": "kept",
+   "n_verts": 807
+  },
+  {
+   "obj_id": 195,
+   "label": "spotlight",
+   "status": "kept",
+   "n_verts": 1006
+  },
+  {
+   "obj_id": 196,
+   "label": "skyligth",
+   "status": "kept",
+   "n_verts": 83421
+  },
+  {
+   "obj_id": 197,
+   "label": "kitchen cabinet",
+   "status": "kept",
+   "n_verts": 5179,
+   "a3d_link": [
+    "cabinet.5.1"
+   ]
+  },
+  {
+   "obj_id": 198,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 36323
+  },
+  {
+   "obj_id": 199,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 7137,
+   "a3d_link": [
+    "cabinet.7.1"
+   ]
+  },
+  {
+   "obj_id": 200,
+   "label": "oven",
+   "status": "kept",
+   "n_verts": 20184,
+   "a3d_link": [
+    "oven.6.1"
+   ]
+  },
+  {
+   "obj_id": 201,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 2504
+  },
+  {
+   "obj_id": 202,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 3535
+  },
+  {
+   "obj_id": 203,
+   "label": "bag",
+   "status": "kept",
+   "n_verts": 3288
+  },
+  {
+   "obj_id": 204,
+   "label": "kitchen counter",
+   "status": "kept",
+   "n_verts": 15460
+  },
+  {
+   "obj_id": 205,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 12100
+  },
+  {
+   "obj_id": 206,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 3757
+  },
+  {
+   "obj_id": 207,
+   "label": "stool",
+   "status": "kept",
+   "n_verts": 14328
+  },
+  {
+   "obj_id": 208,
+   "label": "stool",
+   "status": "kept",
+   "n_verts": 12655
+  },
+  {
+   "obj_id": 209,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 2218
+  },
+  {
+   "obj_id": 210,
+   "label": "plate",
+   "status": "kept",
+   "n_verts": 2755
+  },
+  {
+   "obj_id": 211,
+   "label": "apple",
+   "status": "kept",
+   "n_verts": 317
+  },
+  {
+   "obj_id": 212,
+   "label": "bananas",
+   "status": "kept",
+   "n_verts": 885
+  },
+  {
+   "obj_id": 213,
+   "label": "switch",
+   "status": "kept",
+   "n_verts": 244
+  },
+  {
+   "obj_id": 214,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 2884
+  },
+  {
+   "obj_id": 215,
+   "label": "carpet",
+   "status": "kept",
+   "n_verts": 4964
+  },
+  {
+   "obj_id": 216,
+   "label": "carpet",
+   "status": "kept",
+   "n_verts": 3891
+  },
+  {
+   "obj_id": 217,
+   "label": "refrigerator",
+   "status": "kept",
+   "n_verts": 40208,
+   "a3d_link": [
+    "fridge.3.1"
+   ]
+  },
+  {
+   "obj_id": 218,
+   "label": "kitchen cabinet",
+   "status": "kept",
+   "n_verts": 5463
+  },
+  {
+   "obj_id": 219,
+   "label": "kitchen cabinet",
+   "status": "kept",
+   "n_verts": 12462,
+   "a3d_link": [
+    "cabinet.2.1"
+   ]
+  },
+  {
+   "obj_id": 220,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 12573
+  },
+  {
+   "obj_id": 221,
+   "label": "kitchen cabinet",
+   "status": "kept",
+   "n_verts": 6125
+  },
+  {
+   "obj_id": 222,
+   "label": "kitchen cabinet",
+   "status": "kept",
+   "n_verts": 10804
+  },
+  {
+   "obj_id": 223,
+   "label": "trash can",
+   "status": "kept",
+   "n_verts": 11316
+  },
+  {
+   "obj_id": 224,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 3045
+  },
+  {
+   "obj_id": 225,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 2918
+  },
+  {
+   "obj_id": 226,
+   "label": "cardboard",
+   "status": "kept",
+   "n_verts": 1550
+  },
+  {
+   "obj_id": 227,
+   "label": "cardboard",
+   "status": "kept",
+   "n_verts": 2011
+  },
+  {
+   "obj_id": 228,
+   "label": "cardboard",
+   "status": "kept",
+   "n_verts": 5736
+  },
+  {
+   "obj_id": 229,
+   "label": "kitchen cabinet",
+   "status": "kept",
+   "n_verts": 15143,
+   "a3d_link": [
+    "cabinet.11.1"
+   ]
+  },
+  {
+   "obj_id": 230,
+   "label": "kitchen cabinet",
+   "status": "kept",
+   "n_verts": 7044,
+   "a3d_link": [
+    "cabinet.13.1"
+   ]
+  },
+  {
+   "obj_id": 231,
+   "label": "kitchen counter",
+   "status": "kept",
+   "n_verts": 6247
+  },
+  {
+   "obj_id": 232,
+   "label": "sink",
+   "status": "kept",
+   "n_verts": 3737,
+   "a3d_link": [
+    "sink.14.1"
+   ]
+  },
+  {
+   "obj_id": 233,
+   "label": "sponge",
+   "status": "kept",
+   "n_verts": 180
+  },
+  {
+   "obj_id": 234,
+   "label": "tap",
+   "status": "kept",
+   "n_verts": 802
+  },
+  {
+   "obj_id": 235,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 213
+  },
+  {
+   "obj_id": 236,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 496
+  },
+  {
+   "obj_id": 237,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 616
+  },
+  {
+   "obj_id": 238,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 757
+  },
+  {
+   "obj_id": 239,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 567
+  },
+  {
+   "obj_id": 240,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 491
+  },
+  {
+   "obj_id": 241,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 390
+  },
+  {
+   "obj_id": 242,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 415
+  },
+  {
+   "obj_id": 243,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 373
+  },
+  {
+   "obj_id": 244,
+   "label": "kitchen glove",
+   "status": "kept",
+   "n_verts": 2748
+  },
+  {
+   "obj_id": 245,
+   "label": "kitchen cabinet",
+   "status": "kept",
+   "n_verts": 13115
+  },
+  {
+   "obj_id": 246,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 2996
+  },
+  {
+   "obj_id": 247,
+   "label": "kitchen hood",
+   "status": "kept",
+   "n_verts": 6464
+  },
+  {
+   "obj_id": 248,
+   "label": "kitchen counter",
+   "status": "kept",
+   "n_verts": 30306
+  },
+  {
+   "obj_id": 249,
+   "label": "paper towel",
+   "status": "kept",
+   "n_verts": 765
+  },
+  {
+   "obj_id": 250,
+   "label": "cutting board",
+   "status": "kept",
+   "n_verts": 2407
+  },
+  {
+   "obj_id": 251,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 990
+  },
+  {
+   "obj_id": 252,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 832
+  },
+  {
+   "obj_id": 253,
+   "label": "kitchen utensils",
+   "status": "kept",
+   "n_verts": 2297
+  },
+  {
+   "obj_id": 254,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 754
+  },
+  {
+   "obj_id": 255,
+   "label": "stove",
+   "status": "kept",
+   "n_verts": 23776,
+   "a3d_link": [
+    "stoves.12.1"
+   ]
+  },
+  {
+   "obj_id": 256,
+   "label": "jar",
+   "status": "kept",
+   "n_verts": 316
+  },
+  {
+   "obj_id": 257,
+   "label": "jar",
+   "status": "kept",
+   "n_verts": 235
+  },
+  {
+   "obj_id": 258,
+   "label": "jar",
+   "status": "kept",
+   "n_verts": 265
+  },
+  {
+   "obj_id": 259,
+   "label": "jar",
+   "status": "kept",
+   "n_verts": 431
+  },
+  {
+   "obj_id": 260,
+   "label": "jar",
+   "status": "kept",
+   "n_verts": 214
+  },
+  {
+   "obj_id": 261,
+   "label": "jar",
+   "status": "kept",
+   "n_verts": 335
+  },
+  {
+   "obj_id": 262,
+   "label": "jar",
+   "status": "kept",
+   "n_verts": 162
+  },
+  {
+   "obj_id": 263,
+   "label": "jar",
+   "status": "kept",
+   "n_verts": 368
+  },
+  {
+   "obj_id": 264,
+   "label": "jar",
+   "status": "kept",
+   "n_verts": 44
+  },
+  {
+   "obj_id": 265,
+   "label": "jar",
+   "status": "kept",
+   "n_verts": 109
+  },
+  {
+   "obj_id": 266,
+   "label": "jar",
+   "status": "kept",
+   "n_verts": 207
+  },
+  {
+   "obj_id": 267,
+   "label": "jar",
+   "status": "kept",
+   "n_verts": 163
+  },
+  {
+   "obj_id": 268,
+   "label": "jar",
+   "status": "kept",
+   "n_verts": 142
+  },
+  {
+   "obj_id": 269,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 342
+  },
+  {
+   "obj_id": 270,
+   "label": "knife holder",
+   "status": "kept",
+   "n_verts": 2630
+  },
+  {
+   "obj_id": 271,
+   "label": "scissor",
+   "status": "kept",
+   "n_verts": 442
+  },
+  {
+   "obj_id": 272,
+   "label": "knife",
+   "status": "kept",
+   "n_verts": 127
+  },
+  {
+   "obj_id": 273,
+   "label": "knife",
+   "status": "kept",
+   "n_verts": 84
+  },
+  {
+   "obj_id": 274,
+   "label": "knife",
+   "status": "kept",
+   "n_verts": 81
+  },
+  {
+   "obj_id": 275,
+   "label": "knife",
+   "status": "kept",
+   "n_verts": 177
+  },
+  {
+   "obj_id": 276,
+   "label": "knife",
+   "status": "kept",
+   "n_verts": 83
+  },
+  {
+   "obj_id": 277,
+   "label": "kettle",
+   "status": "kept",
+   "n_verts": 1634
+  },
+  {
+   "obj_id": 278,
+   "label": "machine",
+   "status": "kept",
+   "n_verts": 5500
+  },
+  {
+   "obj_id": 279,
+   "label": "power socket",
+   "status": "kept",
+   "n_verts": 252
+  },
+  {
+   "obj_id": 280,
+   "label": "sink",
+   "status": "kept",
+   "n_verts": 7313,
+   "a3d_link": [
+    "sink.10.1"
+   ]
+  },
+  {
+   "obj_id": 281,
+   "label": "cleaning brush",
+   "status": "kept",
+   "n_verts": 832
+  },
+  {
+   "obj_id": 282,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 317
+  },
+  {
+   "obj_id": 283,
+   "label": "sponge",
+   "status": "kept",
+   "n_verts": 202
+  },
+  {
+   "obj_id": 284,
+   "label": "tap",
+   "status": "kept",
+   "n_verts": 988
+  },
+  {
+   "obj_id": 285,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 288
+  },
+  {
+   "obj_id": 286,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 445
+  },
+  {
+   "obj_id": 287,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 345
+  },
+  {
+   "obj_id": 288,
+   "label": "microwave",
+   "status": "kept",
+   "n_verts": 4376,
+   "a3d_link": [
+    "microwave.8.1"
+   ]
+  },
+  {
+   "obj_id": 289,
+   "label": "plant pot",
+   "status": "kept",
+   "n_verts": 410
+  },
+  {
+   "obj_id": 290,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 173
+  },
+  {
+   "obj_id": 291,
+   "label": "toaster",
+   "status": "kept",
+   "n_verts": 1711
+  },
+  {
+   "obj_id": 292,
+   "label": "plate",
+   "status": "kept",
+   "n_verts": 1312
+  },
+  {
+   "obj_id": 293,
+   "label": "power socket",
+   "status": "kept",
+   "n_verts": 168
+  },
+  {
+   "obj_id": 294,
+   "label": "windowframe",
+   "status": "kept",
+   "n_verts": 5076
+  },
+  {
+   "obj_id": 295,
+   "label": "blinds",
+   "status": "kept",
+   "n_verts": 5417
+  },
+  {
+   "obj_id": 296,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 3527
+  },
+  {
+   "obj_id": 297,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 4692
+  },
+  {
+   "obj_id": 298,
+   "label": "traz",
+   "status": "kept",
+   "n_verts": 2270
+  },
+  {
+   "obj_id": 299,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 345
+  },
+  {
+   "obj_id": 300,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 228
+  },
+  {
+   "obj_id": 301,
+   "label": "paper towel",
+   "status": "kept",
+   "n_verts": 590
+  },
+  {
+   "obj_id": 302,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 259
+  },
+  {
+   "obj_id": 303,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 552
+  },
+  {
+   "obj_id": 304,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 714
+  },
+  {
+   "obj_id": 305,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 217
+  },
+  {
+   "obj_id": 306,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 694
+  },
+  {
+   "obj_id": 307,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 2273
+  },
+  {
+   "obj_id": 308,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 12727
+  },
+  {
+   "obj_id": 309,
+   "label": "split",
+   "status": "dropped",
+   "n_verts": 108279
+  },
+  {
+   "obj_id": 310,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 573
+  },
+  {
+   "obj_id": 311,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 578
+  },
+  {
+   "obj_id": 312,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1442
+  },
+  {
+   "obj_id": 313,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1227
+  },
+  {
+   "obj_id": 314,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 2457
+  },
+  {
+   "obj_id": 315,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1194
+  },
+  {
+   "obj_id": 316,
+   "label": "structure",
+   "status": "dropped",
+   "n_verts": 4932
+  },
+  {
+   "obj_id": 317,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 143149
+  },
+  {
+   "obj_id": 318,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 38404
+  },
+  {
+   "obj_id": 319,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 21573
+  }
+ ]
+}

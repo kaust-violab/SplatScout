@@ -1,0 +1,434 @@
+{
+ "scene_id": "09c1414f1b",
+ "version": "v5",
+ "n_queries": 28,
+ "queries": [
+  {
+   "qid": "qe95c159240",
+   "text": "the seat of the highest bicycle",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P104",
+     "part_id": "obj175_seat_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q4d5ebf9134",
+   "text": "the backrest of the black dining chair",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P105",
+     "part_id": "obj135_backrest_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qe6461dd555",
+   "text": "the backrest of the dining chair closest to the bookshelf",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P106",
+     "part_id": "obj134_backrest_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qd24b35fe6f",
+   "text": "the handle of the lower door of the refrigerator beside the microwave",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P26",
+     "part_id": "obj217_handle_2"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qb25057a553",
+   "text": "the handle of the oven holding two towels",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P32",
+     "part_id": "obj200_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qc9a14a6b81",
+   "text": "the spout of the tap above the sink by the window",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P46",
+     "part_id": "obj280_faucet_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qac3f239d16",
+   "text": "the sink below the hanging wire baskets",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "232",
+     "obj_id": 232
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q4149889a77",
+   "text": "the lowest drawer beside the stove",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P53",
+     "part_id": "obj229_drawer_4"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q1f72b6e2f5",
+   "text": "the long drawer at the bottom of the cabinet under the television",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P90",
+     "part_id": "obj102_drawer_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q8191bc3154",
+   "text": "the lid of the green suitcase near the front door",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P89",
+     "part_id": "obj153_suitcase_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q79dcaa7171",
+   "text": "the door of the microwave on the kitchen counter",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P37",
+     "part_id": "obj288_door_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qa0f74c3f36",
+   "text": "the faucet over the small sink set into the wooden counter",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P75",
+     "part_id": "obj232_faucet_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q054d1640d3",
+   "text": "the bookshelf with a plant pot on top",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "58",
+     "obj_id": 58
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qb49dbcbb2c",
+   "text": "the kitchen cabinet with a stack of four drawers next to its doors",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "229",
+     "obj_id": 229
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qafca658e81",
+   "text": "the orange towel hanging on the oven handle",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "201",
+     "obj_id": 201
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qeffe364398",
+   "text": "the bag standing on the floor beside the cabinet doors under the oven",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "203",
+     "obj_id": 203
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q099e8b4fed",
+   "text": "the black mat on the tiles under the cupboard doors of the window sink",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "215",
+     "obj_id": 215
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q620ef7717c",
+   "text": "the highest bicycle",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "175",
+     "obj_id": 175
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q6c02b5d7e8",
+   "text": "the plant on the dining table",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "140",
+     "obj_id": 140
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qd1b6933733",
+   "text": "the floor lamp beside the television",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "87",
+     "obj_id": 87
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q4e724b3e1f",
+   "text": "the picture of the penguin resting on the shelf above the sofa",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "85",
+     "obj_id": 85
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qb2d6517d3e",
+   "text": "the red helmet resting on the cardboard box",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "183",
+     "obj_id": 183
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q4110c56e4f",
+   "text": "the biggest leafy plant standing on the floor",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "131",
+     "obj_id": 131
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q6cbc4bff0a",
+   "text": "the wooden bookshelf standing in the tiled hallway",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "57",
+     "obj_id": 57
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q4e7f23642d",
+   "text": "the bicycles mounted on the wall",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "175",
+     "obj_id": 175
+    },
+    {
+     "kind": "obj",
+     "tag": "178",
+     "obj_id": 178
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qcb86d3214e",
+   "text": "the stools under the kitchen counter",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "207",
+     "obj_id": 207
+    },
+    {
+     "kind": "obj",
+     "tag": "208",
+     "obj_id": 208
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q1573361a0f",
+   "text": "the towels hanging from the oven handle",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "201",
+     "obj_id": 201
+    },
+    {
+     "kind": "obj",
+     "tag": "202",
+     "obj_id": 202
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q7fc055a49a",
+   "text": "the books on the counter beside the small sink",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "239",
+     "obj_id": 239
+    },
+    {
+     "kind": "obj",
+     "tag": "240",
+     "obj_id": 240
+    },
+    {
+     "kind": "obj",
+     "tag": "241",
+     "obj_id": 241
+    },
+    {
+     "kind": "obj",
+     "tag": "242",
+     "obj_id": 242
+    },
+    {
+     "kind": "obj",
+     "tag": "243",
+     "obj_id": 243
+    }
+   ],
+   "needs_id": false
+  }
+ ]
+}

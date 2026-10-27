@@ -1,0 +1,17 @@
+# data, checkpoints, caches and run outputs (never committed)
+/data/
+/runs/
+*.pt
+*.npz
+*.log
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# secrets / editors
+.env
+*.key
+.idea/
+.vscode/

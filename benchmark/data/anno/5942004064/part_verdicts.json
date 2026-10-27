@@ -1,0 +1,16 @@
+{
+ "curtain.16.1.2_1": "drop",
+ "door.9.1.2_1": "drop",
+ "door.8.1.2_1": "drop",
+ "door.1.1.2_1": "drop",
+ "light switch.5.1.2_1": "drop",
+ "toilet lid.14.1.2_1": "keep",
+ "trash lid.13.1.2_1": "keep",
+ "door.6.1.2_1": "drop",
+ "light switch .7.1.2_1": "drop",
+ "curtain.4.1.2_1": "drop",
+ "curtain.4.1.2_2": "drop",
+ "curtain.4.1.2_3": "drop",
+ "door.10.1.2_5": "keep",
+ "door.10.1.2_6": "keep"
+}

@@ -1,0 +1,20 @@
+{
+ "door.3.1.2_1": "drop",
+ "door.1.1.2_1": "drop",
+ "trash can lid.12.1.2_1": "keep",
+ "light switch.9.1.2_1": "drop",
+ "light switch.10.1.2_1": "drop",
+ "light switch.9.1.2_2": "drop",
+ "trash can lid.11.1.2_1": "keep",
+ "trash can lid.13.1.2_1": "keep",
+ "box lid.7.1.2_1": "keep",
+ "light switch.10.1.2_2": "drop",
+ "drawer.18.1.2_4": "keep",
+ "door.15.1.2_3": "drop",
+ "door.1.1.2_2": "drop",
+ "drawer.18.1.2_2": "keep",
+ "box lid.5.1.2_2": "keep",
+ "door.3.1.2_2": "keep",
+ "door.15.1.2_1": "keep",
+ "drawer.17.1.2_2": "keep"
+}

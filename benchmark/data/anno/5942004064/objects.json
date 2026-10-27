@@ -1,0 +1,990 @@
+{
+ "scene_id": "5942004064",
+ "n_vertices": 1919546,
+ "objects": [
+  {
+   "obj_id": 1,
+   "label": "shower curtain",
+   "status": "kept",
+   "n_verts": 97841,
+   "a3d_link": [
+    "curtain rail.16.1"
+   ]
+  },
+  {
+   "obj_id": 2,
+   "label": "power panel",
+   "status": "kept",
+   "n_verts": 531
+  },
+  {
+   "obj_id": 3,
+   "label": "curtain rod",
+   "status": "kept",
+   "n_verts": 1409
+  },
+  {
+   "obj_id": 4,
+   "label": "door frame",
+   "status": "kept",
+   "n_verts": 8793
+  },
+  {
+   "obj_id": 5,
+   "label": "wardrobe",
+   "status": "kept",
+   "n_verts": 29182,
+   "a3d_link": [
+    "cabinet.10.1"
+   ]
+  },
+  {
+   "obj_id": 6,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 2811
+  },
+  {
+   "obj_id": 7,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 13014
+  },
+  {
+   "obj_id": 8,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 28099
+  },
+  {
+   "obj_id": 9,
+   "label": "light switch",
+   "status": "kept",
+   "n_verts": 69
+  },
+  {
+   "obj_id": 10,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 9247,
+   "a3d_link": [
+    "door frame.8.1"
+   ]
+  },
+  {
+   "obj_id": 11,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 15885
+  },
+  {
+   "obj_id": 12,
+   "label": "door frame",
+   "status": "kept",
+   "n_verts": 2566
+  },
+  {
+   "obj_id": 13,
+   "label": "bedside table",
+   "status": "kept",
+   "n_verts": 5967
+  },
+  {
+   "obj_id": 14,
+   "label": "sofa",
+   "status": "kept",
+   "n_verts": 39509
+  },
+  {
+   "obj_id": 15,
+   "label": "curtain",
+   "status": "kept",
+   "n_verts": 28215
+  },
+  {
+   "obj_id": 16,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 22710
+  },
+  {
+   "obj_id": 17,
+   "label": "faucet",
+   "status": "kept",
+   "n_verts": 895
+  },
+  {
+   "obj_id": 18,
+   "label": "soap bottle",
+   "status": "kept",
+   "n_verts": 322
+  },
+  {
+   "obj_id": 19,
+   "label": "sink",
+   "status": "kept",
+   "n_verts": 6990,
+   "a3d_link": [
+    "sink.12.1"
+   ]
+  },
+  {
+   "obj_id": 20,
+   "label": "shower rug",
+   "status": "kept",
+   "n_verts": 10884
+  },
+  {
+   "obj_id": 21,
+   "label": "shower floor",
+   "status": "kept",
+   "n_verts": 12013
+  },
+  {
+   "obj_id": 22,
+   "label": "toilet",
+   "status": "kept",
+   "n_verts": 7402,
+   "a3d_link": [
+    "toilet.14.1"
+   ]
+  },
+  {
+   "obj_id": 23,
+   "label": "ceiling",
+   "status": "kept",
+   "n_verts": 98894
+  },
+  {
+   "obj_id": 24,
+   "label": "armchair",
+   "status": "kept",
+   "n_verts": 9464
+  },
+  {
+   "obj_id": 25,
+   "label": "curtain",
+   "status": "kept",
+   "n_verts": 39303
+  },
+  {
+   "obj_id": 26,
+   "label": "curtain",
+   "status": "kept",
+   "n_verts": 33625
+  },
+  {
+   "obj_id": 27,
+   "label": "pillow",
+   "status": "kept",
+   "n_verts": 3787
+  },
+  {
+   "obj_id": 28,
+   "label": "pillow",
+   "status": "kept",
+   "n_verts": 4478
+  },
+  {
+   "obj_id": 29,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 167885
+  },
+  {
+   "obj_id": 30,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 13729,
+   "a3d_link": [
+    "door frame.9.1"
+   ]
+  },
+  {
+   "obj_id": 31,
+   "label": "door frame",
+   "status": "kept",
+   "n_verts": 9879
+  },
+  {
+   "obj_id": 32,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 3771
+  },
+  {
+   "obj_id": 33,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 42069
+  },
+  {
+   "obj_id": 34,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 81010
+  },
+  {
+   "obj_id": 35,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 10543
+  },
+  {
+   "obj_id": 36,
+   "label": "chair",
+   "status": "kept",
+   "n_verts": 9964
+  },
+  {
+   "obj_id": 37,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 25633
+  },
+  {
+   "obj_id": 38,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 52014
+  },
+  {
+   "obj_id": 39,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 3474
+  },
+  {
+   "obj_id": 40,
+   "label": "ceiling",
+   "status": "kept",
+   "n_verts": 3225
+  },
+  {
+   "obj_id": 41,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 12909
+  },
+  {
+   "obj_id": 42,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 23262
+  },
+  {
+   "obj_id": 43,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 16952
+  },
+  {
+   "obj_id": 44,
+   "label": "bathtub",
+   "status": "kept",
+   "n_verts": 9571
+  },
+  {
+   "obj_id": 45,
+   "label": "bathroom shelf",
+   "status": "kept",
+   "n_verts": 15093
+  },
+  {
+   "obj_id": 46,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 3872
+  },
+  {
+   "obj_id": 47,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 13295
+  },
+  {
+   "obj_id": 48,
+   "label": "heater",
+   "status": "kept",
+   "n_verts": 2384
+  },
+  {
+   "obj_id": 49,
+   "label": "rug",
+   "status": "kept",
+   "n_verts": 668
+  },
+  {
+   "obj_id": 50,
+   "label": "rug",
+   "status": "kept",
+   "n_verts": 535
+  },
+  {
+   "obj_id": 51,
+   "label": "mop cloth",
+   "status": "kept",
+   "n_verts": 1802
+  },
+  {
+   "obj_id": 52,
+   "label": "basket",
+   "status": "kept",
+   "n_verts": 5902
+  },
+  {
+   "obj_id": 53,
+   "label": "bed",
+   "status": "kept",
+   "n_verts": 164549
+  },
+  {
+   "obj_id": 54,
+   "label": "carpet",
+   "status": "kept",
+   "n_verts": 20996
+  },
+  {
+   "obj_id": 55,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 14907
+  },
+  {
+   "obj_id": 56,
+   "label": "tv",
+   "status": "kept",
+   "n_verts": 44043
+  },
+  {
+   "obj_id": 57,
+   "label": "tv stand",
+   "status": "kept",
+   "n_verts": 14668
+  },
+  {
+   "obj_id": 58,
+   "label": "pot",
+   "status": "kept",
+   "n_verts": 6105
+  },
+  {
+   "obj_id": 59,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 28093
+  },
+  {
+   "obj_id": 60,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 908
+  },
+  {
+   "obj_id": 61,
+   "label": "REMOVE",
+   "status": "dropped",
+   "n_verts": 3162
+  },
+  {
+   "obj_id": 62,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 6942,
+   "a3d_link": [
+    "door frame.1.1"
+   ]
+  },
+  {
+   "obj_id": 63,
+   "label": "door handle",
+   "status": "kept",
+   "n_verts": 458
+  },
+  {
+   "obj_id": 64,
+   "label": "bag",
+   "status": "kept",
+   "n_verts": 6052
+  },
+  {
+   "obj_id": 65,
+   "label": "yoga mat",
+   "status": "kept",
+   "n_verts": 4879
+  },
+  {
+   "obj_id": 66,
+   "label": "guitar",
+   "status": "kept",
+   "n_verts": 20576
+  },
+  {
+   "obj_id": 67,
+   "label": "photo frame",
+   "status": "kept",
+   "n_verts": 1407
+  },
+  {
+   "obj_id": 68,
+   "label": "shelf",
+   "status": "kept",
+   "n_verts": 2860
+  },
+  {
+   "obj_id": 69,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 691
+  },
+  {
+   "obj_id": 70,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 307
+  },
+  {
+   "obj_id": 71,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 156
+  },
+  {
+   "obj_id": 72,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 611
+  },
+  {
+   "obj_id": 73,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 321
+  },
+  {
+   "obj_id": 74,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 541
+  },
+  {
+   "obj_id": 75,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 31152,
+   "a3d_link": [
+    "cabinet.15.1"
+   ]
+  },
+  {
+   "obj_id": 76,
+   "label": "table mat",
+   "status": "kept",
+   "n_verts": 2393
+  },
+  {
+   "obj_id": 77,
+   "label": "picture",
+   "status": "kept",
+   "n_verts": 1057
+  },
+  {
+   "obj_id": 78,
+   "label": "pegboard",
+   "status": "kept",
+   "n_verts": 7302
+  },
+  {
+   "obj_id": 79,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 588
+  },
+  {
+   "obj_id": 80,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 238
+  },
+  {
+   "obj_id": 81,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 257
+  },
+  {
+   "obj_id": 82,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 169
+  },
+  {
+   "obj_id": 83,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 117
+  },
+  {
+   "obj_id": 84,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 124
+  },
+  {
+   "obj_id": 85,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 299
+  },
+  {
+   "obj_id": 86,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 338
+  },
+  {
+   "obj_id": 87,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 54
+  },
+  {
+   "obj_id": 88,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 256
+  },
+  {
+   "obj_id": 89,
+   "label": "lamp",
+   "status": "kept",
+   "n_verts": 2558
+  },
+  {
+   "obj_id": 90,
+   "label": "photo frame",
+   "status": "kept",
+   "n_verts": 3810
+  },
+  {
+   "obj_id": 91,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1462
+  },
+  {
+   "obj_id": 92,
+   "label": "pen holder",
+   "status": "kept",
+   "n_verts": 558
+  },
+  {
+   "obj_id": 93,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 374
+  },
+  {
+   "obj_id": 94,
+   "label": "plant pot",
+   "status": "kept",
+   "n_verts": 803
+  },
+  {
+   "obj_id": 95,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 9993
+  },
+  {
+   "obj_id": 96,
+   "label": "plant pot",
+   "status": "kept",
+   "n_verts": 538
+  },
+  {
+   "obj_id": 97,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 1507
+  },
+  {
+   "obj_id": 98,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 12949,
+   "a3d_link": [
+    "cabinet.11.1"
+   ]
+  },
+  {
+   "obj_id": 99,
+   "label": "REMOVE",
+   "status": "dropped",
+   "n_verts": 4056
+  },
+  {
+   "obj_id": 100,
+   "label": "shelf",
+   "status": "kept",
+   "n_verts": 2395
+  },
+  {
+   "obj_id": 101,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1767
+  },
+  {
+   "obj_id": 102,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 259
+  },
+  {
+   "obj_id": 103,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 247
+  },
+  {
+   "obj_id": 104,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 304
+  },
+  {
+   "obj_id": 105,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 367
+  },
+  {
+   "obj_id": 106,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 660
+  },
+  {
+   "obj_id": 107,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 130
+  },
+  {
+   "obj_id": 108,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 284
+  },
+  {
+   "obj_id": 109,
+   "label": "toilet paper",
+   "status": "kept",
+   "n_verts": 376
+  },
+  {
+   "obj_id": 110,
+   "label": "toilet paper",
+   "status": "kept",
+   "n_verts": 314
+  },
+  {
+   "obj_id": 111,
+   "label": "toilet paper",
+   "status": "kept",
+   "n_verts": 338
+  },
+  {
+   "obj_id": 112,
+   "label": "toilet paper",
+   "status": "kept",
+   "n_verts": 191
+  },
+  {
+   "obj_id": 113,
+   "label": "toilet paper",
+   "status": "kept",
+   "n_verts": 450
+  },
+  {
+   "obj_id": 114,
+   "label": "toilet paper",
+   "status": "kept",
+   "n_verts": 159
+  },
+  {
+   "obj_id": 115,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 14080
+  },
+  {
+   "obj_id": 116,
+   "label": "plant pot mat",
+   "status": "kept",
+   "n_verts": 2310
+  },
+  {
+   "obj_id": 117,
+   "label": "spray bottle",
+   "status": "kept",
+   "n_verts": 290
+  },
+  {
+   "obj_id": 118,
+   "label": "plant pot mat",
+   "status": "kept",
+   "n_verts": 2379
+  },
+  {
+   "obj_id": 119,
+   "label": "plant pot mat",
+   "status": "kept",
+   "n_verts": 1714
+  },
+  {
+   "obj_id": 120,
+   "label": "plate",
+   "status": "kept",
+   "n_verts": 806
+  },
+  {
+   "obj_id": 121,
+   "label": "plant pot",
+   "status": "kept",
+   "n_verts": 658
+  },
+  {
+   "obj_id": 122,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 19542
+  },
+  {
+   "obj_id": 123,
+   "label": "plant pot",
+   "status": "kept",
+   "n_verts": 551
+  },
+  {
+   "obj_id": 124,
+   "label": "plant pot",
+   "status": "kept",
+   "n_verts": 1850
+  },
+  {
+   "obj_id": 125,
+   "label": "plant pot coaster",
+   "status": "kept",
+   "n_verts": 678
+  },
+  {
+   "obj_id": 126,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 33935
+  },
+  {
+   "obj_id": 127,
+   "label": "plant pot",
+   "status": "kept",
+   "n_verts": 1078
+  },
+  {
+   "obj_id": 128,
+   "label": "plant pot coaster",
+   "status": "kept",
+   "n_verts": 621
+  },
+  {
+   "obj_id": 129,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 24831
+  },
+  {
+   "obj_id": 130,
+   "label": "heater",
+   "status": "kept",
+   "n_verts": 30997
+  },
+  {
+   "obj_id": 131,
+   "label": "floor lamp",
+   "status": "kept",
+   "n_verts": 5482
+  },
+  {
+   "obj_id": 132,
+   "label": "board",
+   "status": "kept",
+   "n_verts": 1816
+  },
+  {
+   "obj_id": 133,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 9581
+  },
+  {
+   "obj_id": 134,
+   "label": "REMOVE",
+   "status": "dropped",
+   "n_verts": 1854
+  },
+  {
+   "obj_id": 135,
+   "label": "REMOVE",
+   "status": "dropped",
+   "n_verts": 2683
+  },
+  {
+   "obj_id": 136,
+   "label": "mirror",
+   "status": "kept",
+   "n_verts": 3232
+  },
+  {
+   "obj_id": 137,
+   "label": "books",
+   "status": "kept",
+   "n_verts": 700
+  },
+  {
+   "obj_id": 138,
+   "label": "dumbbell",
+   "status": "kept",
+   "n_verts": 389
+  },
+  {
+   "obj_id": 139,
+   "label": "dumbbell",
+   "status": "kept",
+   "n_verts": 244
+  },
+  {
+   "obj_id": 140,
+   "label": "dumbbell",
+   "status": "kept",
+   "n_verts": 274
+  },
+  {
+   "obj_id": 141,
+   "label": "dumbbell",
+   "status": "kept",
+   "n_verts": 179
+  },
+  {
+   "obj_id": 142,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 1568
+  },
+  {
+   "obj_id": 143,
+   "label": "cosmetic bag",
+   "status": "kept",
+   "n_verts": 583
+  },
+  {
+   "obj_id": 144,
+   "label": "lint roller",
+   "status": "kept",
+   "n_verts": 323
+  },
+  {
+   "obj_id": 145,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 456
+  },
+  {
+   "obj_id": 146,
+   "label": "cosmetic bag",
+   "status": "kept",
+   "n_verts": 912
+  },
+  {
+   "obj_id": 147,
+   "label": "cosmetic bag",
+   "status": "kept",
+   "n_verts": 422
+  },
+  {
+   "obj_id": 148,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 889
+  },
+  {
+   "obj_id": 149,
+   "label": "bunny chocolate",
+   "status": "kept",
+   "n_verts": 589
+  },
+  {
+   "obj_id": 150,
+   "label": "bunny chocolate",
+   "status": "kept",
+   "n_verts": 672
+  },
+  {
+   "obj_id": 151,
+   "label": "bunny chocolate",
+   "status": "kept",
+   "n_verts": 660
+  },
+  {
+   "obj_id": 152,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 451
+  },
+  {
+   "obj_id": 153,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 540
+  },
+  {
+   "obj_id": 154,
+   "label": "bag",
+   "status": "kept",
+   "n_verts": 1746
+  },
+  {
+   "obj_id": 155,
+   "label": "pillow",
+   "status": "kept",
+   "n_verts": 2784
+  },
+  {
+   "obj_id": 156,
+   "label": "pillow",
+   "status": "kept",
+   "n_verts": 3364
+  },
+  {
+   "obj_id": 157,
+   "label": "blanket",
+   "status": "kept",
+   "n_verts": 144803
+  },
+  {
+   "obj_id": 158,
+   "label": "light switch",
+   "status": "kept",
+   "n_verts": 79,
+   "a3d_link": [
+    "light switch base.5.1"
+   ]
+  },
+  {
+   "obj_id": 159,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 19264
+  }
+ ]
+}

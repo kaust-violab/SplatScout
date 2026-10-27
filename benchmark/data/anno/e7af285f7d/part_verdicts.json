@@ -1,0 +1,11 @@
+{
+ "door.1.1.2_1": "drop",
+ "door.15.1.2_1": "drop",
+ "blinds.8.1.2_1": "drop",
+ "door.2.1.2_1": "drop",
+ "screw cap.16.1.2_1": "keep",
+ "pump head.16.1.2_1.3_1": "keep",
+ "toilet lid.10.1.2_2": "keep",
+ "switch.12.1.2_2": "keep",
+ "screw cap.19.1.2_1": "keep"
+}

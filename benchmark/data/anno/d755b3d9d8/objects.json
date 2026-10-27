@@ -1,0 +1,720 @@
+{
+ "scene_id": "d755b3d9d8",
+ "n_vertices": 1343630,
+ "objects": [
+  {
+   "obj_id": 1,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 100546
+  },
+  {
+   "obj_id": 2,
+   "label": "ceiling",
+   "status": "kept",
+   "n_verts": 98908
+  },
+  {
+   "obj_id": 3,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 61967
+  },
+  {
+   "obj_id": 4,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 18943
+  },
+  {
+   "obj_id": 5,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 40033
+  },
+  {
+   "obj_id": 6,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 57548
+  },
+  {
+   "obj_id": 7,
+   "label": "storage cabinet",
+   "status": "kept",
+   "n_verts": 69840,
+   "a3d_link": [
+    "cabinet.4.1"
+   ]
+  },
+  {
+   "obj_id": 8,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 12755,
+   "a3d_link": [
+    "cabinet.5.1"
+   ]
+  },
+  {
+   "obj_id": 9,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 2343,
+   "a3d_link": [
+    "cabinet.6.1"
+   ]
+  },
+  {
+   "obj_id": 10,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 4804,
+   "a3d_link": [
+    "cabinet.8.1"
+   ]
+  },
+  {
+   "obj_id": 11,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 3769,
+   "a3d_link": [
+    "cabinet.10.1"
+   ]
+  },
+  {
+   "obj_id": 12,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 18334
+  },
+  {
+   "obj_id": 13,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 18888
+  },
+  {
+   "obj_id": 14,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 24356
+  },
+  {
+   "obj_id": 15,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 13183
+  },
+  {
+   "obj_id": 16,
+   "label": "window frame",
+   "status": "kept",
+   "n_verts": 28670
+  },
+  {
+   "obj_id": 17,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 18780
+  },
+  {
+   "obj_id": 18,
+   "label": "air duct",
+   "status": "kept",
+   "n_verts": 29295
+  },
+  {
+   "obj_id": 19,
+   "label": "air duct",
+   "status": "kept",
+   "n_verts": 60631
+  },
+  {
+   "obj_id": 20,
+   "label": "door frame",
+   "status": "kept",
+   "n_verts": 13731
+  },
+  {
+   "obj_id": 21,
+   "label": "light switch",
+   "status": "kept",
+   "n_verts": 115,
+   "a3d_link": [
+    "switch base.12.1"
+   ]
+  },
+  {
+   "obj_id": 22,
+   "label": "jacket",
+   "status": "kept",
+   "n_verts": 8904
+  },
+  {
+   "obj_id": 23,
+   "label": "jacket",
+   "status": "kept",
+   "n_verts": 13868
+  },
+  {
+   "obj_id": 24,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 1549,
+   "a3d_link": [
+    "box.17.1"
+   ]
+  },
+  {
+   "obj_id": 25,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 2477,
+   "a3d_link": [
+    "box.16.1"
+   ]
+  },
+  {
+   "obj_id": 26,
+   "label": "paper ram",
+   "status": "kept",
+   "n_verts": 1456
+  },
+  {
+   "obj_id": 27,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 885
+  },
+  {
+   "obj_id": 28,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 405
+  },
+  {
+   "obj_id": 29,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 608
+  },
+  {
+   "obj_id": 30,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 355
+  },
+  {
+   "obj_id": 31,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 610
+  },
+  {
+   "obj_id": 32,
+   "label": "paper rack",
+   "status": "kept",
+   "n_verts": 23047
+  },
+  {
+   "obj_id": 33,
+   "label": "paper stapler",
+   "status": "kept",
+   "n_verts": 1408
+  },
+  {
+   "obj_id": 34,
+   "label": "paper stapler",
+   "status": "kept",
+   "n_verts": 268
+  },
+  {
+   "obj_id": 35,
+   "label": "paper stapler",
+   "status": "kept",
+   "n_verts": 420
+  },
+  {
+   "obj_id": 36,
+   "label": "calendar",
+   "status": "kept",
+   "n_verts": 1907
+  },
+  {
+   "obj_id": 37,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 41915
+  },
+  {
+   "obj_id": 38,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 11819
+  },
+  {
+   "obj_id": 39,
+   "label": "mouse",
+   "status": "kept",
+   "n_verts": 207
+  },
+  {
+   "obj_id": 40,
+   "label": "cup",
+   "status": "kept",
+   "n_verts": 802
+  },
+  {
+   "obj_id": 41,
+   "label": "folder",
+   "status": "kept",
+   "n_verts": 911
+  },
+  {
+   "obj_id": 42,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 251
+  },
+  {
+   "obj_id": 43,
+   "label": "calculator",
+   "status": "kept",
+   "n_verts": 391
+  },
+  {
+   "obj_id": 44,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 766,
+   "a3d_link": [
+    "box.15.1"
+   ]
+  },
+  {
+   "obj_id": 45,
+   "label": "pencil stande",
+   "status": "kept",
+   "n_verts": 1550
+  },
+  {
+   "obj_id": 46,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 648
+  },
+  {
+   "obj_id": 47,
+   "label": "trash bin",
+   "status": "kept",
+   "n_verts": 1763
+  },
+  {
+   "obj_id": 48,
+   "label": "bag",
+   "status": "kept",
+   "n_verts": 1568
+  },
+  {
+   "obj_id": 49,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 882
+  },
+  {
+   "obj_id": 50,
+   "label": "printer",
+   "status": "kept",
+   "n_verts": 5799
+  },
+  {
+   "obj_id": 51,
+   "label": "printer",
+   "status": "kept",
+   "n_verts": 2627
+  },
+  {
+   "obj_id": 52,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 18540
+  },
+  {
+   "obj_id": 53,
+   "label": "heater",
+   "status": "kept",
+   "n_verts": 28425,
+   "a3d_link": [
+    "heater.11.1"
+   ]
+  },
+  {
+   "obj_id": 54,
+   "label": "shoes",
+   "status": "kept",
+   "n_verts": 2848
+  },
+  {
+   "obj_id": 55,
+   "label": "windowsill",
+   "status": "kept",
+   "n_verts": 17275
+  },
+  {
+   "obj_id": 56,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 277
+  },
+  {
+   "obj_id": 57,
+   "label": "telephone",
+   "status": "kept",
+   "n_verts": 1367
+  },
+  {
+   "obj_id": 58,
+   "label": "photo",
+   "status": "kept",
+   "n_verts": 597
+  },
+  {
+   "obj_id": 59,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1996
+  },
+  {
+   "obj_id": 60,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 1541
+  },
+  {
+   "obj_id": 61,
+   "label": "plant pot",
+   "status": "kept",
+   "n_verts": 981
+  },
+  {
+   "obj_id": 62,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 30385
+  },
+  {
+   "obj_id": 63,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 1631
+  },
+  {
+   "obj_id": 64,
+   "label": "plant pot",
+   "status": "kept",
+   "n_verts": 386
+  },
+  {
+   "obj_id": 65,
+   "label": "power socket",
+   "status": "kept",
+   "n_verts": 313
+  },
+  {
+   "obj_id": 66,
+   "label": "power socket",
+   "status": "kept",
+   "n_verts": 112
+  },
+  {
+   "obj_id": 67,
+   "label": "power socket",
+   "status": "kept",
+   "n_verts": 285
+  },
+  {
+   "obj_id": 68,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 7534
+  },
+  {
+   "obj_id": 69,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 10646
+  },
+  {
+   "obj_id": 70,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 8645
+  },
+  {
+   "obj_id": 71,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 11128
+  },
+  {
+   "obj_id": 72,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 11259
+  },
+  {
+   "obj_id": 73,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 8476
+  },
+  {
+   "obj_id": 74,
+   "label": "whiteboard",
+   "status": "kept",
+   "n_verts": 13057
+  },
+  {
+   "obj_id": 75,
+   "label": "trash bin",
+   "status": "kept",
+   "n_verts": 4586
+  },
+  {
+   "obj_id": 76,
+   "label": "trash bin",
+   "status": "kept",
+   "n_verts": 7919
+  },
+  {
+   "obj_id": 77,
+   "label": "trash bin",
+   "status": "kept",
+   "n_verts": 5895
+  },
+  {
+   "obj_id": 78,
+   "label": "power socket",
+   "status": "kept",
+   "n_verts": 274
+  },
+  {
+   "obj_id": 79,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 3910,
+   "a3d_link": [
+    "box.13.1"
+   ]
+  },
+  {
+   "obj_id": 80,
+   "label": "mouse",
+   "status": "kept",
+   "n_verts": 153
+  },
+  {
+   "obj_id": 81,
+   "label": "keyboard",
+   "status": "kept",
+   "n_verts": 2188
+  },
+  {
+   "obj_id": 82,
+   "label": "folder",
+   "status": "kept",
+   "n_verts": 1626
+  },
+  {
+   "obj_id": 83,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 194
+  },
+  {
+   "obj_id": 84,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 12293
+  },
+  {
+   "obj_id": 85,
+   "label": "pen holder",
+   "status": "kept",
+   "n_verts": 1329
+  },
+  {
+   "obj_id": 86,
+   "label": "pen holder",
+   "status": "kept",
+   "n_verts": 675
+  },
+  {
+   "obj_id": 87,
+   "label": "pen holder",
+   "status": "kept",
+   "n_verts": 910
+  },
+  {
+   "obj_id": 88,
+   "label": "plant",
+   "status": "kept",
+   "n_verts": 1371
+  },
+  {
+   "obj_id": 89,
+   "label": "pen holder",
+   "status": "kept",
+   "n_verts": 283
+  },
+  {
+   "obj_id": 90,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 2590
+  },
+  {
+   "obj_id": 91,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 7917
+  },
+  {
+   "obj_id": 92,
+   "label": "keyboard",
+   "status": "kept",
+   "n_verts": 1793
+  },
+  {
+   "obj_id": 93,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 1229
+  },
+  {
+   "obj_id": 94,
+   "label": "mouse",
+   "status": "kept",
+   "n_verts": 183
+  },
+  {
+   "obj_id": 95,
+   "label": "laptop",
+   "status": "kept",
+   "n_verts": 3300
+  },
+  {
+   "obj_id": 96,
+   "label": "paper towel",
+   "status": "kept",
+   "n_verts": 1296
+  },
+  {
+   "obj_id": 97,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 1819,
+   "a3d_link": [
+    "cabinet.9.1"
+   ]
+  },
+  {
+   "obj_id": 98,
+   "label": "paper rack",
+   "status": "kept",
+   "n_verts": 8531
+  },
+  {
+   "obj_id": 99,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 26081
+  },
+  {
+   "obj_id": 100,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 14787
+  },
+  {
+   "obj_id": 101,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 12239
+  },
+  {
+   "obj_id": 102,
+   "label": "books",
+   "status": "kept",
+   "n_verts": 7696
+  },
+  {
+   "obj_id": 103,
+   "label": "books",
+   "status": "kept",
+   "n_verts": 4730
+  },
+  {
+   "obj_id": 104,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 131
+  },
+  {
+   "obj_id": 105,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 1574,
+   "a3d_link": [
+    "box.14.1"
+   ]
+  },
+  {
+   "obj_id": 106,
+   "label": "blinds",
+   "status": "kept",
+   "n_verts": 32626,
+   "a3d_link": [
+    "blinds rail.21.1"
+   ]
+  },
+  {
+   "obj_id": 107,
+   "label": "blinds",
+   "status": "kept",
+   "n_verts": 27248,
+   "a3d_link": [
+    "blinds rail.20.1"
+   ]
+  },
+  {
+   "obj_id": 108,
+   "label": "blinds",
+   "status": "kept",
+   "n_verts": 31810,
+   "a3d_link": [
+    "blinds rail.19.1"
+   ]
+  },
+  {
+   "obj_id": 109,
+   "label": "blinds",
+   "status": "kept",
+   "n_verts": 30408,
+   "a3d_link": [
+    "blinds rail.18.1"
+   ]
+  },
+  {
+   "obj_id": 110,
+   "label": "blinds",
+   "status": "kept",
+   "n_verts": 19837,
+   "a3d_link": [
+    "blinds rail.22.1"
+   ]
+  }
+ ]
+}

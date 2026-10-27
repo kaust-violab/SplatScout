@@ -1,0 +1,312 @@
+{
+ "scene_id": "3864514494",
+ "version": "v5",
+ "n_queries": 20,
+ "queries": [
+  {
+   "qid": "q5c503b3273",
+   "text": "the lid of the red kettle standing beside the kitchen sink",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P30",
+     "part_id": "obj35_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qb1e0b46755",
+   "text": "the mixer tap rising between the two sink basins",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P24",
+     "part_id": "orphan_faucet_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qb8241cecd8",
+   "text": "the door of the microwave that sits in the wall cabinet niche",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P26",
+     "part_id": "obj24_door_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qe0fb175b6a",
+   "text": "the pair of round dials next to the microwave door",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P28",
+     "part_id": "obj24_buttons_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qe13c04d454",
+   "text": "the handle of the wall cabinet door that hangs directly above the microwave",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P17",
+     "part_id": "obj11_handle_3"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q1998b7b17d",
+   "text": "the wall cabinet door hanging directly above the sink basin nearest the entrance",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P10",
+     "part_id": "obj11_cabinet_door_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q51db89c3fd",
+   "text": "the round knob on the tall grey cabinet beside the entrance door",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P9",
+     "part_id": "obj10_knob_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qaaef915d36",
+   "text": "the door of the tall grey cabinet that hangs nearest the red entrance door",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P7",
+     "part_id": "obj10_cabinet_door_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q9686928a14",
+   "text": "the long bar handle of the dishwasher next to the kitchen sink",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P33",
+     "part_id": "obj53_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q1b71d4b011",
+   "text": "the handle of the fridge that stands under the black coffee machine",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P40",
+     "part_id": "obj56_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qd36dd2a6c8",
+   "text": "the topmost of the three drawer handles between the dishwasher and the fridge",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P37",
+     "part_id": "orphan_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q32f9910537",
+   "text": "the bright yellow flap in the lid of the waste separation bin",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P22",
+     "part_id": "obj59_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q5dbf757709",
+   "text": "the container on the serving trolley with the pale green lid",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "72",
+     "obj_id": 72
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q9b68acf80d",
+   "text": "the drawer whose bar handle sits closest to the floor",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "55",
+     "obj_id": 55
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q3629e3fe39",
+   "text": "the wall socket on the splashback just above the mixer tap",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "22",
+     "obj_id": 22
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qbe600d53df",
+   "text": "the sink basin closest to the entrance door",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "27",
+     "obj_id": 27
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q4e5386d3a7",
+   "text": "the container on the serving trolley standing closest to the window",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "73",
+     "obj_id": 73
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q2404784d39",
+   "text": "the metal cup standing hard against the espresso machine",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "81",
+     "obj_id": 81
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q5d7cc1008c",
+   "text": "the cooking utensils lying together in the wooden tray on the worktop",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "38",
+     "obj_id": 38
+    },
+    {
+     "kind": "obj",
+     "tag": "39",
+     "obj_id": 39
+    },
+    {
+     "kind": "obj",
+     "tag": "40",
+     "obj_id": 40
+    },
+    {
+     "kind": "obj",
+     "tag": "41",
+     "obj_id": 41
+    },
+    {
+     "kind": "obj",
+     "tag": "42",
+     "obj_id": 42
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q247df8a210",
+   "text": "the two cups standing side by side under the microwave",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "12",
+     "obj_id": 12
+    },
+    {
+     "kind": "obj",
+     "tag": "26",
+     "obj_id": 26
+    }
+   ],
+   "needs_id": false
+  }
+ ]
+}

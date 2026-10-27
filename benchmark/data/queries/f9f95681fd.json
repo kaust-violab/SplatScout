@@ -1,0 +1,353 @@
+{
+ "scene_id": "f9f95681fd",
+ "version": "v5",
+ "n_queries": 24,
+ "queries": [
+  {
+   "qid": "qeb3e17eee7",
+   "text": "the handle of the cabinet above the sink",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P9",
+     "part_id": "obj8_handle_2"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q3b7bdb4116",
+   "text": "the handle of the cabinet above the stove",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P3",
+     "part_id": "obj5_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qd7e9e414ad",
+   "text": "the door of the cabinet above the stove",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P1",
+     "part_id": "obj5_door_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q9e818073d8",
+   "text": "the lid of the trash bin beside the room door",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P39",
+     "part_id": "obj20_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q4b22356099",
+   "text": "the handle of the kettle on the long counter",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P35",
+     "part_id": "obj37_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q7058def48f",
+   "text": "the drawer directly under the stove",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P33",
+     "part_id": "orphan_drawer_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qc2f0fb0f44",
+   "text": "the bottom door of the cabinet standing beside the doorway",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P29",
+     "part_id": "obj23_door_3"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q80fe90f54e",
+   "text": "the handle of the dishwasher that stands against the doorframe",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P18",
+     "part_id": "obj9_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q5404474bd8",
+   "text": "the drawer of the cabinet directly under the kitchen sink",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P24",
+     "part_id": "obj10_drawer_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q48b297f487",
+   "text": "the cabinet with two towels hanging from its handle",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "10",
+     "obj_id": 10
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qf4c1809f9e",
+   "text": "the trash bin with a silver swing lid",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "20",
+     "obj_id": 20
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q902111238f",
+   "text": "the trash bin with an open top and no lid",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "30",
+     "obj_id": 30
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qa49c98770b",
+   "text": "the paper taped to the cabinet door above the microwave",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "21",
+     "obj_id": 21
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q53c3ee2201",
+   "text": "the red-striped towel hanging down from the handle",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "27",
+     "obj_id": 27
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q5eade77845",
+   "text": "the blue-striped towel hanging down from the handle",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "28",
+     "obj_id": 28
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qce583144eb",
+   "text": "the teal cup standing beside the coffee machine",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "38",
+     "obj_id": 38
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qdf47367033",
+   "text": "the white cup standing beside the dish rack",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "33",
+     "obj_id": 33
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q33f5937159",
+   "text": "the trash bin standing beside the room door",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "20",
+     "obj_id": 20
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q918566dd77",
+   "text": "the trash bin standing under the kitchen counter",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "30",
+     "obj_id": 30
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q030aa0a570",
+   "text": "the dishwasher sitting directly under the microwave oven",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "9",
+     "obj_id": 9
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qa56176f80a",
+   "text": "the paper hanging on the wall beside the coffee machine",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "32",
+     "obj_id": 32
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q4708a0324a",
+   "text": "the knife set that hangs on the wall",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "41",
+     "obj_id": 41
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q96625d5d0e",
+   "text": "the two knife sets standing on the kitchen counter",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "43",
+     "obj_id": 43
+    },
+    {
+     "kind": "obj",
+     "tag": "44",
+     "obj_id": 44
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q0c27478ea6",
+   "text": "the kitchen towels hanging from the dishwasher handle",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "27",
+     "obj_id": 27
+    },
+    {
+     "kind": "obj",
+     "tag": "28",
+     "obj_id": 28
+    }
+   ],
+   "needs_id": false
+  }
+ ]
+}

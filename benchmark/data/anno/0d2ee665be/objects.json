@@ -1,0 +1,666 @@
+{
+ "scene_id": "0d2ee665be",
+ "n_vertices": 1082845,
+ "objects": [
+  {
+   "obj_id": 1,
+   "label": "baseball cap",
+   "status": "kept",
+   "n_verts": 1273
+  },
+  {
+   "obj_id": 2,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 3008
+  },
+  {
+   "obj_id": 3,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 4506
+  },
+  {
+   "obj_id": 4,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 4409,
+   "a3d_link": [
+    "box.9.1"
+   ]
+  },
+  {
+   "obj_id": 5,
+   "label": "bag",
+   "status": "kept",
+   "n_verts": 6922
+  },
+  {
+   "obj_id": 6,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 7485,
+   "a3d_link": [
+    "cabinet.10.1"
+   ]
+  },
+  {
+   "obj_id": 7,
+   "label": "laundry hamper",
+   "status": "kept",
+   "n_verts": 7857
+  },
+  {
+   "obj_id": 8,
+   "label": "picture",
+   "status": "kept",
+   "n_verts": 2614
+  },
+  {
+   "obj_id": 9,
+   "label": "jacket",
+   "status": "kept",
+   "n_verts": 5569
+  },
+  {
+   "obj_id": 10,
+   "label": "kitchen utensil",
+   "status": "kept",
+   "n_verts": 381
+  },
+  {
+   "obj_id": 11,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 3431
+  },
+  {
+   "obj_id": 12,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 2258
+  },
+  {
+   "obj_id": 13,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 536
+  },
+  {
+   "obj_id": 14,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 438
+  },
+  {
+   "obj_id": 15,
+   "label": "duffle bag",
+   "status": "kept",
+   "n_verts": 6147
+  },
+  {
+   "obj_id": 16,
+   "label": "mug",
+   "status": "kept",
+   "n_verts": 474
+  },
+  {
+   "obj_id": 17,
+   "label": "mug",
+   "status": "kept",
+   "n_verts": 329
+  },
+  {
+   "obj_id": 18,
+   "label": "kitchen utensil",
+   "status": "kept",
+   "n_verts": 1275
+  },
+  {
+   "obj_id": 19,
+   "label": "kitchen utensil",
+   "status": "kept",
+   "n_verts": 962
+  },
+  {
+   "obj_id": 20,
+   "label": "kitchen utensil",
+   "status": "kept",
+   "n_verts": 841
+  },
+  {
+   "obj_id": 21,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 582
+  },
+  {
+   "obj_id": 22,
+   "label": "scissors",
+   "status": "kept",
+   "n_verts": 369
+  },
+  {
+   "obj_id": 23,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 4158
+  },
+  {
+   "obj_id": 24,
+   "label": "cutting board",
+   "status": "kept",
+   "n_verts": 1490
+  },
+  {
+   "obj_id": 25,
+   "label": "kitchen cabinet",
+   "status": "kept",
+   "n_verts": 13748,
+   "a3d_link": [
+    "cabinet.17.1"
+   ]
+  },
+  {
+   "obj_id": 26,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 8824
+  },
+  {
+   "obj_id": 27,
+   "label": "kitchen counter",
+   "status": "kept",
+   "n_verts": 19179,
+   "a3d_link": [
+    "kitchen counter.22.1"
+   ]
+  },
+  {
+   "obj_id": 28,
+   "label": "kitchen cabinet",
+   "status": "kept",
+   "n_verts": 9251,
+   "a3d_link": [
+    "cabinet.15.1"
+   ]
+  },
+  {
+   "obj_id": 29,
+   "label": "smoke alarm",
+   "status": "kept",
+   "n_verts": 563
+  },
+  {
+   "obj_id": 30,
+   "label": "jacket",
+   "status": "kept",
+   "n_verts": 15251
+  },
+  {
+   "obj_id": 31,
+   "label": "bluetooth speaker",
+   "status": "kept",
+   "n_verts": 546
+  },
+  {
+   "obj_id": 32,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 5492
+  },
+  {
+   "obj_id": 33,
+   "label": "desk lamp",
+   "status": "kept",
+   "n_verts": 1303
+  },
+  {
+   "obj_id": 34,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 9584
+  },
+  {
+   "obj_id": 35,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 24231
+  },
+  {
+   "obj_id": 36,
+   "label": "sweater",
+   "status": "kept",
+   "n_verts": 6763
+  },
+  {
+   "obj_id": 37,
+   "label": "nightstand",
+   "status": "kept",
+   "n_verts": 3659
+  },
+  {
+   "obj_id": 38,
+   "label": "backpack",
+   "status": "kept",
+   "n_verts": 5523
+  },
+  {
+   "obj_id": 39,
+   "label": "backpack",
+   "status": "kept",
+   "n_verts": 4867
+  },
+  {
+   "obj_id": 40,
+   "label": "pillow",
+   "status": "kept",
+   "n_verts": 3580
+  },
+  {
+   "obj_id": 41,
+   "label": "chair",
+   "status": "kept",
+   "n_verts": 5545
+  },
+  {
+   "obj_id": 42,
+   "label": "keyboard",
+   "status": "kept",
+   "n_verts": 2444
+  },
+  {
+   "obj_id": 43,
+   "label": "door frame",
+   "status": "kept",
+   "n_verts": 6434
+  },
+  {
+   "obj_id": 44,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 15752,
+   "a3d_link": [
+    "door frame.1.1"
+   ]
+  },
+  {
+   "obj_id": 45,
+   "label": "pillow",
+   "status": "kept",
+   "n_verts": 2912
+  },
+  {
+   "obj_id": 46,
+   "label": "pillow",
+   "status": "kept",
+   "n_verts": 3401
+  },
+  {
+   "obj_id": 47,
+   "label": "blanket",
+   "status": "kept",
+   "n_verts": 8613
+  },
+  {
+   "obj_id": 48,
+   "label": "blanket",
+   "status": "kept",
+   "n_verts": 5423
+  },
+  {
+   "obj_id": 49,
+   "label": "bed",
+   "status": "kept",
+   "n_verts": 5816
+  },
+  {
+   "obj_id": 50,
+   "label": "mattress",
+   "status": "kept",
+   "n_verts": 27114
+  },
+  {
+   "obj_id": 51,
+   "label": "split",
+   "status": "dropped",
+   "n_verts": 1876
+  },
+  {
+   "obj_id": 52,
+   "label": "laptop",
+   "status": "kept",
+   "n_verts": 3750
+  },
+  {
+   "obj_id": 53,
+   "label": "trash can",
+   "status": "kept",
+   "n_verts": 10124
+  },
+  {
+   "obj_id": 54,
+   "label": "book shelf",
+   "status": "kept",
+   "n_verts": 86802
+  },
+  {
+   "obj_id": 55,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 559
+  },
+  {
+   "obj_id": 56,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1036
+  },
+  {
+   "obj_id": 57,
+   "label": "monitor light",
+   "status": "kept",
+   "n_verts": 576
+  },
+  {
+   "obj_id": 58,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 345
+  },
+  {
+   "obj_id": 59,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 91475
+  },
+  {
+   "obj_id": 60,
+   "label": "sculpture",
+   "status": "kept",
+   "n_verts": 599
+  },
+  {
+   "obj_id": 61,
+   "label": "sculpture",
+   "status": "kept",
+   "n_verts": 530
+  },
+  {
+   "obj_id": 62,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 363
+  },
+  {
+   "obj_id": 63,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 1334
+  },
+  {
+   "obj_id": 64,
+   "label": "toilet paper",
+   "status": "kept",
+   "n_verts": 545
+  },
+  {
+   "obj_id": 65,
+   "label": "receipt",
+   "status": "kept",
+   "n_verts": 215
+  },
+  {
+   "obj_id": 66,
+   "label": "pen",
+   "status": "kept",
+   "n_verts": 101
+  },
+  {
+   "obj_id": 67,
+   "label": "eraser",
+   "status": "kept",
+   "n_verts": 108
+  },
+  {
+   "obj_id": 68,
+   "label": "mouse",
+   "status": "kept",
+   "n_verts": 249
+  },
+  {
+   "obj_id": 69,
+   "label": "mousepad",
+   "status": "kept",
+   "n_verts": 2591
+  },
+  {
+   "obj_id": 70,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 3903
+  },
+  {
+   "obj_id": 71,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 2233
+  },
+  {
+   "obj_id": 72,
+   "label": "shelf",
+   "status": "kept",
+   "n_verts": 26416
+  },
+  {
+   "obj_id": 73,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 766
+  },
+  {
+   "obj_id": 74,
+   "label": "kettle",
+   "status": "kept",
+   "n_verts": 1292
+  },
+  {
+   "obj_id": 75,
+   "label": "book",
+   "status": "kept",
+   "n_verts": 738
+  },
+  {
+   "obj_id": 76,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 252
+  },
+  {
+   "obj_id": 77,
+   "label": "instant pot",
+   "status": "kept",
+   "n_verts": 4641
+  },
+  {
+   "obj_id": 78,
+   "label": "shelf",
+   "status": "kept",
+   "n_verts": 10221
+  },
+  {
+   "obj_id": 79,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 1821
+  },
+  {
+   "obj_id": 80,
+   "label": "toaster",
+   "status": "kept",
+   "n_verts": 4371
+  },
+  {
+   "obj_id": 81,
+   "label": "salad spinner",
+   "status": "kept",
+   "n_verts": 2383
+  },
+  {
+   "obj_id": 82,
+   "label": "pan",
+   "status": "kept",
+   "n_verts": 3385
+  },
+  {
+   "obj_id": 83,
+   "label": "pan",
+   "status": "kept",
+   "n_verts": 4394
+  },
+  {
+   "obj_id": 84,
+   "label": "hand vacuum",
+   "status": "kept",
+   "n_verts": 921
+  },
+  {
+   "obj_id": 85,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1311
+  },
+  {
+   "obj_id": 86,
+   "label": "microwave",
+   "status": "kept",
+   "n_verts": 11636,
+   "a3d_link": [
+    "microwave.18.1"
+   ]
+  },
+  {
+   "obj_id": 87,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 2399
+  },
+  {
+   "obj_id": 88,
+   "label": "water filter",
+   "status": "kept",
+   "n_verts": 3513,
+   "a3d_link": [
+    "jug.20.1"
+   ]
+  },
+  {
+   "obj_id": 89,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 944
+  },
+  {
+   "obj_id": 90,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 11872
+  },
+  {
+   "obj_id": 91,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 9842
+  },
+  {
+   "obj_id": 92,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 4155
+  },
+  {
+   "obj_id": 93,
+   "label": "panel",
+   "status": "kept",
+   "n_verts": 2556,
+   "a3d_link": [
+    "door frame.2.1"
+   ]
+  },
+  {
+   "obj_id": 94,
+   "label": "clothes",
+   "status": "kept",
+   "n_verts": 2728
+  },
+  {
+   "obj_id": 95,
+   "label": "clothes",
+   "status": "kept",
+   "n_verts": 4631
+  },
+  {
+   "obj_id": 96,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1715
+  },
+  {
+   "obj_id": 97,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 1397
+  },
+  {
+   "obj_id": 98,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 874
+  },
+  {
+   "obj_id": 99,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 1782,
+   "a3d_link": [
+    "box.12.1"
+   ]
+  },
+  {
+   "obj_id": 100,
+   "label": "books",
+   "status": "kept",
+   "n_verts": 2748
+  },
+  {
+   "obj_id": 101,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 1380
+  },
+  {
+   "obj_id": 102,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 511
+  },
+  {
+   "obj_id": 103,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 47945
+  },
+  {
+   "obj_id": 104,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 200315
+  },
+  {
+   "obj_id": 105,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 58580
+  }
+ ]
+}

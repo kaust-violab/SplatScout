@@ -1,0 +1,213 @@
+{
+ "scene_id": "9071e139d9",
+ "version": "v5",
+ "n_queries": 14,
+ "queries": [
+  {
+   "qid": "qeb486cbb5f",
+   "text": "the lid of the blue bin",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P23",
+     "part_id": "obj130_trash_can_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q95d8fecf97",
+   "text": "the backrest of the chair below the kettles",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P32",
+     "part_id": "obj125_backrest_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q9b1450ea6c",
+   "text": "the round knob on the white door beside the tall glass panel",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P2",
+     "part_id": "obj122_knob_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q66e7b85c07",
+   "text": "the door of the dark cabinet that is nearer to the two green ottomans",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P8",
+     "part_id": "obj62_door_2"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qde346f56e2",
+   "text": "the table with a chessboard on its top",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "54",
+     "obj_id": 54
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qd258a12a39",
+   "text": "the table with three kettles on its top",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "55",
+     "obj_id": 55
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q5d369503c4",
+   "text": "the waste bin with the light gray lid",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "131",
+     "obj_id": 131
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qfa73ae3f11",
+   "text": "the green bolster lying on the sofa below the window",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "151",
+     "obj_id": 151
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qdf43f3f05f",
+   "text": "the ceiling light directly above the two doors of the dark cabinet",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "164",
+     "obj_id": 164
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qb308c0b4e4",
+   "text": "the green mug sitting in the wooden pigeonhole shelf",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "34",
+     "obj_id": 34
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qbd3393f89d",
+   "text": "the ceiling vent set into the ceiling above the oval coffee table",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "141",
+     "obj_id": 141
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q5516c5abb2",
+   "text": "the empty notice board between the open doorway and the whiteboard",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "73",
+     "obj_id": 73
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q4bdc22b4ee",
+   "text": "the mug standing on the coffee table beside the chessboard",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "87",
+     "obj_id": 87
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qfee219b560",
+   "text": "the three grey cushions propped up on the sofas",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "152",
+     "obj_id": 152
+    },
+    {
+     "kind": "obj",
+     "tag": "154",
+     "obj_id": 154
+    },
+    {
+     "kind": "obj",
+     "tag": "156",
+     "obj_id": 156
+    }
+   ],
+   "needs_id": false
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "blinds.18.1.2_1": "keep",
+ "blinds.22.1.2_1": "drop",
+ "blinds.19.1.2_1": "drop",
+ "blinds.20.1.2_1": "drop",
+ "blinds.21.1.2_1": "drop",
+ "door.2.1.2_1": "drop",
+ "drawer.9.1.2_1": "keep",
+ "box lid.13.1.2_3": "keep",
+ "box lid.15.1.2_1": "keep",
+ "box lid.16.1.2_1": "keep",
+ "drawer.6.1.2_3": "keep",
+ "drawer.9.1.2_2": "keep",
+ "box lid.17.1.2_2": "keep",
+ "switch.12.1.2_1": "drop",
+ "box lid.13.1.2_2": "keep",
+ "drawer.6.1.2_1": "keep",
+ "drawer.6.1.2_2": "keep",
+ "box lid.17.1.2_1": "keep"
+}

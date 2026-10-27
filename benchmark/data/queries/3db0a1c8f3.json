@@ -1,0 +1,466 @@
+{
+ "scene_id": "3db0a1c8f3",
+ "version": "v5",
+ "n_queries": 31,
+ "queries": [
+  {
+   "qid": "q8f31b53e3a",
+   "text": "the handle of the kettle",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P81",
+     "part_id": "obj145_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qf557f7ff39",
+   "text": "the door of the washing machine",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P67",
+     "part_id": "obj183_door_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q7560444e5e",
+   "text": "the hose of the bathtub's handheld shower",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P60",
+     "part_id": "obj158_shower_hose_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q8b14ef0e3b",
+   "text": "the faucet of the sink beside the toilet",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P56",
+     "part_id": "obj162_faucet_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qfe636d645a",
+   "text": "the backrest of the green chair",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P92",
+     "part_id": "obj40_backrest_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q9e4561aae1",
+   "text": "the handle of the oven below the cooktop",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P90",
+     "part_id": "orphan_handle_7"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qc49aec3dcb",
+   "text": "the padded seat of the bench at the piano",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P91",
+     "part_id": "obj48_seat_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q6e5c84b5fd",
+   "text": "the lower door of the cabinet the backpack leans against",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P55",
+     "part_id": "obj86_door_2"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q64692985b4",
+   "text": "the door of the cabinet under the kitchen sink",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P22",
+     "part_id": "obj38_door_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q278b2b7e08",
+   "text": "the lowest of the three drawers in the kitchen",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P21",
+     "part_id": "obj38_drawer_3"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q1eeb1c6879",
+   "text": "the handle of the microwave standing on the counter",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P51",
+     "part_id": "orphan_handle_4"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q9ee9d9ecc1",
+   "text": "the lid of the toilet next to the bathtub",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P61",
+     "part_id": "obj159_toilet_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q20758d8fbb",
+   "text": "the door with jackets hanging from it",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "135",
+     "obj_id": 135
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q9abd08e504",
+   "text": "the open window by the computer desk",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "62",
+     "obj_id": 62
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q029af40bde",
+   "text": "the hanging jacket whose hood is trimmed with fur",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "139",
+     "obj_id": 139
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q1eb1bd768e",
+   "text": "the cabinet with the four doors in a row",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "143",
+     "obj_id": 143
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q154050af4f",
+   "text": "the chair with wheels at the desk by the windows",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "40",
+     "obj_id": 40
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qa9cf732de1",
+   "text": "the headset resting on the piano lid",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "60",
+     "obj_id": 60
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q8585401f8e",
+   "text": "the bin standing beside the drawers in the kitchen",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "98",
+     "obj_id": 98
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q992aa5c69f",
+   "text": "the pack of toilet paper under the washing machine's detergent drawer",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "181",
+     "obj_id": 181
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q1c3d647092",
+   "text": "the chair at the piano",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "48",
+     "obj_id": 48
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qf1e30bdec7",
+   "text": "the window above the bathtub",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "50",
+     "obj_id": 50
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q44fb986d1f",
+   "text": "the smallest beanbag",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "67",
+     "obj_id": 67
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q8ad19d000e",
+   "text": "the toilet paper above the toilet",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "161",
+     "obj_id": 161
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qbe6e07e139",
+   "text": "the drying rack standing at the end of the sofa",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "82",
+     "obj_id": 82
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qe88913bb04",
+   "text": "the bag under the table crowded with bottles",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "102",
+     "obj_id": 102
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q943b2439cf",
+   "text": "the table standing between the sofa and the tv stand",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "47",
+     "obj_id": 47
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q8be570e829",
+   "text": "the table with crossed metal legs",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "46",
+     "obj_id": 46
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q569eef5caa",
+   "text": "the bottles on the wooden side table",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "105",
+     "obj_id": 105
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q88edff95a3",
+   "text": "the jackets hanging on the wooden door",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "137",
+     "obj_id": 137
+    },
+    {
+     "kind": "obj",
+     "tag": "138",
+     "obj_id": 138
+    },
+    {
+     "kind": "obj",
+     "tag": "139",
+     "obj_id": 139
+    },
+    {
+     "kind": "obj",
+     "tag": "140",
+     "obj_id": 140
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q6c7860bc8c",
+   "text": "the toilet-paper rolls beside the laundry hamper",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "181",
+     "obj_id": 181
+    },
+    {
+     "kind": "obj",
+     "tag": "182",
+     "obj_id": 182
+    },
+    {
+     "kind": "obj",
+     "tag": "189",
+     "obj_id": 189
+    }
+   ],
+   "needs_id": false
+  }
+ ]
+}

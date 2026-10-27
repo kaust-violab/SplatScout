@@ -1,0 +1,274 @@
+{
+ "scene_id": "27dd4da69e",
+ "version": "v5",
+ "n_queries": 18,
+ "queries": [
+  {
+   "qid": "qfc6c00928f",
+   "text": "the drawer directly below the kitchen sink",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P39",
+     "part_id": "orphan_drawer_3"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q97f1cbe595",
+   "text": "the handle of the black frying pan beside the cooktop",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P72",
+     "part_id": "obj126_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qe5c35f04a5",
+   "text": "the cabinet door directly beneath the dish drying rack",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P40",
+     "part_id": "orphan_door_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qb2a2a125f6",
+   "text": "the door with a paper attached to it",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "33",
+     "obj_id": 33
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qebadc40ed5",
+   "text": "the mug with the red interior",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "151",
+     "obj_id": 151
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q622d431d18",
+   "text": "the trash can with the dark domed lid",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "114",
+     "obj_id": 114
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q3ee035e523",
+   "text": "the black bag resting on the turquoise delivery bag",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "204",
+     "obj_id": 204
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q6d5aaab971",
+   "text": "the chair under the red backpack",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "112",
+     "obj_id": 112
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qa9e4d9fd65",
+   "text": "the plate standing in the drying rack beside the faucet",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "177",
+     "obj_id": 177
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q7a3a51391f",
+   "text": "the turquoise bag against the hallway wall",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "122",
+     "obj_id": 122
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qab8380d6dc",
+   "text": "the picture hanging above the white kitchen shelf",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "74",
+     "obj_id": 74
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q347c6db295",
+   "text": "the picture on the wall above the turquoise delivery bag",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "118",
+     "obj_id": 118
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qf14f3823e1",
+   "text": "the bag sitting on the shelf next to the roll of kitchen paper",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "221",
+     "obj_id": 221
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qe092b0fdd4",
+   "text": "the door with the checkered mat lying at its threshold",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "26",
+     "obj_id": 26
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q7fc9c5044e",
+   "text": "the small bin on the floor beside the stool under the paper-towel roll",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "113",
+     "obj_id": 113
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qd5f342125f",
+   "text": "the cooking pots hanging beside the sink",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "154",
+     "obj_id": 154
+    },
+    {
+     "kind": "obj",
+     "tag": "155",
+     "obj_id": 155
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q0bc394c45d",
+   "text": "the two laundry machines standing side by side under the counter",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "66",
+     "obj_id": 66
+    },
+    {
+     "kind": "obj",
+     "tag": "67",
+     "obj_id": 67
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q3c32e2cb58",
+   "text": "the two swivel bar stools in the kitchen",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "34",
+     "obj_id": 34
+    },
+    {
+     "kind": "obj",
+     "tag": "112",
+     "obj_id": 112
+    }
+   ],
+   "needs_id": false
+  }
+ ]
+}

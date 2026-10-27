@@ -1,0 +1,14 @@
+{
+ "door.7.1.2_1": "drop",
+ "door.6.1.2_1": "drop",
+ "light switch.5.1.2_1": "drop",
+ "door.3.1.2_1": "drop",
+ "oven.8.1.2_2": "drop",
+ "handle.12.1.2_1": "keep",
+ "drawer.11.1.2_1": "keep",
+ "door.1.1.2_1": "keep",
+ "door.10.1.2_1": "keep",
+ "door.1.1.2_2": "keep",
+ "door.4.1.2_1": "drop",
+ "door.4.1.2_2": "drop"
+}

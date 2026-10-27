@@ -1,0 +1,300 @@
+{
+ "scene_id": "f9f95681fd",
+ "n_vertices": 271704,
+ "objects": [
+  {
+   "obj_id": 35,
+   "label": "cheese",
+   "status": "kept",
+   "n_verts": 340
+  },
+  {
+   "obj_id": 24,
+   "label": "plate",
+   "status": "kept",
+   "n_verts": 1070
+  },
+  {
+   "obj_id": 25,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 431
+  },
+  {
+   "obj_id": 26,
+   "label": "microwave",
+   "status": "kept",
+   "n_verts": 9510,
+   "a3d_link": [
+    "microwave.6.1"
+   ]
+  },
+  {
+   "obj_id": 27,
+   "label": "kitchen towel",
+   "status": "kept",
+   "n_verts": 1276
+  },
+  {
+   "obj_id": 28,
+   "label": "kitchen towel",
+   "status": "kept",
+   "n_verts": 2206
+  },
+  {
+   "obj_id": 29,
+   "label": "dishwasher",
+   "status": "kept",
+   "n_verts": 13312
+  },
+  {
+   "obj_id": 30,
+   "label": "trash bin",
+   "status": "kept",
+   "n_verts": 3586
+  },
+  {
+   "obj_id": 31,
+   "label": "fire extinguisher",
+   "status": "kept",
+   "n_verts": 1798
+  },
+  {
+   "obj_id": 32,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 888
+  },
+  {
+   "obj_id": 33,
+   "label": "cup",
+   "status": "kept",
+   "n_verts": 362
+  },
+  {
+   "obj_id": 34,
+   "label": "chopping board",
+   "status": "kept",
+   "n_verts": 1608
+  },
+  {
+   "obj_id": 23,
+   "label": "refrigerator",
+   "status": "kept",
+   "n_verts": 11779,
+   "a3d_link": [
+    "cabinet.10.1"
+   ]
+  },
+  {
+   "obj_id": 36,
+   "label": "pinboard",
+   "status": "kept",
+   "n_verts": 2823
+  },
+  {
+   "obj_id": 37,
+   "label": "kettle",
+   "status": "kept",
+   "n_verts": 1931,
+   "a3d_link": [
+    "water kettle.12.1"
+   ]
+  },
+  {
+   "obj_id": 38,
+   "label": "cup",
+   "status": "kept",
+   "n_verts": 406
+  },
+  {
+   "obj_id": 39,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 302
+  },
+  {
+   "obj_id": 40,
+   "label": "cheese",
+   "status": "kept",
+   "n_verts": 660
+  },
+  {
+   "obj_id": 41,
+   "label": "knife set",
+   "status": "kept",
+   "n_verts": 3057
+  },
+  {
+   "obj_id": 42,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 2480
+  },
+  {
+   "obj_id": 43,
+   "label": "knife set",
+   "status": "kept",
+   "n_verts": 2020
+  },
+  {
+   "obj_id": 44,
+   "label": "knife set",
+   "status": "kept",
+   "n_verts": 2664
+  },
+  {
+   "obj_id": 45,
+   "label": "coffee machine",
+   "status": "kept",
+   "n_verts": 5268
+  },
+  {
+   "obj_id": 12,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 3880
+  },
+  {
+   "obj_id": 2,
+   "label": "pan set",
+   "status": "kept",
+   "n_verts": 1632
+  },
+  {
+   "obj_id": 3,
+   "label": "kitchen counter",
+   "status": "kept",
+   "n_verts": 15970
+  },
+  {
+   "obj_id": 4,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 21183
+  },
+  {
+   "obj_id": 5,
+   "label": "kitchen cabinet",
+   "status": "kept",
+   "n_verts": 6867,
+   "a3d_link": [
+    "cabinet.1.1"
+   ]
+  },
+  {
+   "obj_id": 6,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 14295
+  },
+  {
+   "obj_id": 7,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 11934
+  },
+  {
+   "obj_id": 8,
+   "label": "kitchen cabinet",
+   "status": "kept",
+   "n_verts": 14375,
+   "a3d_link": [
+    "cabinet.4.1"
+   ]
+  },
+  {
+   "obj_id": 9,
+   "label": "dishwasher",
+   "status": "kept",
+   "n_verts": 8439,
+   "a3d_link": [
+    "dishwasher.7.1"
+   ]
+  },
+  {
+   "obj_id": 10,
+   "label": "kitchen cabinet",
+   "status": "kept",
+   "n_verts": 5652,
+   "a3d_link": [
+    "cabinet.8.1"
+   ]
+  },
+  {
+   "obj_id": 11,
+   "label": "shelf",
+   "status": "kept",
+   "n_verts": 12180
+  },
+  {
+   "obj_id": 1,
+   "label": "ceiling",
+   "status": "kept",
+   "n_verts": 23332
+  },
+  {
+   "obj_id": 13,
+   "label": "stove",
+   "status": "kept",
+   "n_verts": 2479
+  },
+  {
+   "obj_id": 14,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 3898
+  },
+  {
+   "obj_id": 15,
+   "label": "smoke detector",
+   "status": "kept",
+   "n_verts": 508
+  },
+  {
+   "obj_id": 16,
+   "label": "exhaust fan",
+   "status": "kept",
+   "n_verts": 431
+  },
+  {
+   "obj_id": 17,
+   "label": "exhaust fan",
+   "status": "kept",
+   "n_verts": 413
+  },
+  {
+   "obj_id": 18,
+   "label": "doorframe",
+   "status": "kept",
+   "n_verts": 11664
+  },
+  {
+   "obj_id": 19,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 14517,
+   "a3d_link": [
+    "door frame.3.1"
+   ]
+  },
+  {
+   "obj_id": 20,
+   "label": "trash bin",
+   "status": "kept",
+   "n_verts": 5234
+  },
+  {
+   "obj_id": 21,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 435
+  },
+  {
+   "obj_id": 22,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 684
+  }
+ ]
+}

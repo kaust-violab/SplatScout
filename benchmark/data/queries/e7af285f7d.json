@@ -1,0 +1,284 @@
+{
+ "scene_id": "e7af285f7d",
+ "version": "v5",
+ "n_queries": 18,
+ "queries": [
+  {
+   "qid": "q01c6a71540",
+   "text": "the raised lid of the toilet",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P73",
+     "part_id": "obj101_toilet_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q5923cf59c7",
+   "text": "the topmost drawer of the tall cabinet standing beside the toilet",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P35",
+     "part_id": "obj40_drawer_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q24afa6f89d",
+   "text": "the lever handle on the glass-paned door that stands open",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P10",
+     "part_id": "obj19_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qf34e8c9ab1",
+   "text": "the ring-shaped handle on the glass door of the shower",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P84",
+     "part_id": "orphan_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q83102d25f7",
+   "text": "the lowest drawer in the bank of drawers beside the bathtub",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P16",
+     "part_id": "obj16_drawer_4"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q6b8e949e87",
+   "text": "the lid of the pedal bin standing beside the small vanity",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P66",
+     "part_id": "obj42_trash_can_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q44892ec400",
+   "text": "the seat of the toilet, still lowered under its raised lid",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P72",
+     "part_id": "obj101_seat_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qf09859206f",
+   "text": "the light switch panel with only two rockers on it",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "35",
+     "obj_id": 35
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qf805c7fe8f",
+   "text": "the cabinet with a toilet-roll holder fixed to its side",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "40",
+     "obj_id": 40
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qabd69fc46d",
+   "text": "the long light fixture mounted above the three mirrored doors",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "49",
+     "obj_id": 49
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q7992d7e18f",
+   "text": "the wooden cabinet that stands closest to the bathtub",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "16",
+     "obj_id": 16
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q95fae6169c",
+   "text": "the wall lamp standing just beside the window blinds",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "53",
+     "obj_id": 53
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q74bc126529",
+   "text": "the rug lying just outside the shower entrance",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "117",
+     "obj_id": 117
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q8c67daf90c",
+   "text": "the ceiling vent closer to the window blinds",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "110",
+     "obj_id": 110
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q935e7ecc3b",
+   "text": "the rug lying up against the foot of the vanity",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "44",
+     "obj_id": 44
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q7f792e1b70",
+   "text": "the two white doors set with small panes of frosted glass",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "18",
+     "obj_id": 18
+    },
+    {
+     "kind": "obj",
+     "tag": "19",
+     "obj_id": 19
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q84e0370ebf",
+   "text": "the four drawers running down the end of the vanity closest to the shower",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P17",
+     "part_id": "obj16_drawer_5"
+    },
+    {
+     "kind": "part",
+     "tag": "P18",
+     "part_id": "obj16_drawer_6"
+    },
+    {
+     "kind": "part",
+     "tag": "P19",
+     "part_id": "obj16_drawer_7"
+    },
+    {
+     "kind": "part",
+     "tag": "P20",
+     "part_id": "obj16_drawer_8"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q9bd8a100b0",
+   "text": "the two grey vents set high on the walls around the bathtub",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "79",
+     "obj_id": 79
+    },
+    {
+     "kind": "obj",
+     "tag": "80",
+     "obj_id": 80
+    }
+   ],
+   "needs_id": false
+  }
+ ]
+}

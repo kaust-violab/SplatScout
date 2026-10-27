@@ -1,0 +1,1182 @@
+{
+ "scene_id": "578511c8a9",
+ "n_vertices": 4775139,
+ "objects": [
+  {
+   "obj_id": 1,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 24863
+  },
+  {
+   "obj_id": 2,
+   "label": "pedestal fan",
+   "status": "kept",
+   "n_verts": 16673
+  },
+  {
+   "obj_id": 3,
+   "label": "trash bin",
+   "status": "kept",
+   "n_verts": 8215,
+   "a3d_link": [
+    "trash can.11.1"
+   ]
+  },
+  {
+   "obj_id": 4,
+   "label": "trash bin",
+   "status": "kept",
+   "n_verts": 7615,
+   "a3d_link": [
+    "trash can.12.1"
+   ]
+  },
+  {
+   "obj_id": 5,
+   "label": "trash bin",
+   "status": "kept",
+   "n_verts": 7629,
+   "a3d_link": [
+    "trash can.13.1"
+   ]
+  },
+  {
+   "obj_id": 6,
+   "label": "exhaust fan",
+   "status": "kept",
+   "n_verts": 10241
+  },
+  {
+   "obj_id": 7,
+   "label": "ceiling",
+   "status": "kept",
+   "n_verts": 385768
+  },
+  {
+   "obj_id": 8,
+   "label": "ceiling",
+   "status": "kept",
+   "n_verts": 379754
+  },
+  {
+   "obj_id": 9,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 15380
+  },
+  {
+   "obj_id": 10,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 35463
+  },
+  {
+   "obj_id": 11,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 4805
+  },
+  {
+   "obj_id": 12,
+   "label": "pillar",
+   "status": "kept",
+   "n_verts": 25555
+  },
+  {
+   "obj_id": 13,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 8239
+  },
+  {
+   "obj_id": 14,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 24650
+  },
+  {
+   "obj_id": 15,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 19153
+  },
+  {
+   "obj_id": 16,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 18613
+  },
+  {
+   "obj_id": 17,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 25743
+  },
+  {
+   "obj_id": 18,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 27051
+  },
+  {
+   "obj_id": 19,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 67743,
+   "a3d_link": [
+    "desk.19.1"
+   ]
+  },
+  {
+   "obj_id": 20,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 9484
+  },
+  {
+   "obj_id": 21,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 10110
+  },
+  {
+   "obj_id": 22,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 11401
+  },
+  {
+   "obj_id": 23,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 253534
+  },
+  {
+   "obj_id": 24,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 3829
+  },
+  {
+   "obj_id": 25,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 4484
+  },
+  {
+   "obj_id": 26,
+   "label": "light switch",
+   "status": "kept",
+   "n_verts": 265,
+   "a3d_link": [
+    "panel.8.1"
+   ]
+  },
+  {
+   "obj_id": 27,
+   "label": "emergency kit",
+   "status": "kept",
+   "n_verts": 2752
+  },
+  {
+   "obj_id": 28,
+   "label": "fire extinguisher",
+   "status": "kept",
+   "n_verts": 3482
+  },
+  {
+   "obj_id": 29,
+   "label": "wooden pallet",
+   "status": "kept",
+   "n_verts": 23241
+  },
+  {
+   "obj_id": 30,
+   "label": "platform trolley",
+   "status": "kept",
+   "n_verts": 8903
+  },
+  {
+   "obj_id": 31,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 5165,
+   "a3d_link": [
+    "cabinet.16.1"
+   ]
+  },
+  {
+   "obj_id": 32,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 5035,
+   "a3d_link": [
+    "cabinet.17.1"
+   ]
+  },
+  {
+   "obj_id": 33,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 4357
+  },
+  {
+   "obj_id": 34,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 3560
+  },
+  {
+   "obj_id": 35,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 16646
+  },
+  {
+   "obj_id": 36,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 8227
+  },
+  {
+   "obj_id": 37,
+   "label": "trash bin",
+   "status": "kept",
+   "n_verts": 2763
+  },
+  {
+   "obj_id": 38,
+   "label": "keyboard",
+   "status": "kept",
+   "n_verts": 964
+  },
+  {
+   "obj_id": 39,
+   "label": "keyboard",
+   "status": "kept",
+   "n_verts": 1469
+  },
+  {
+   "obj_id": 40,
+   "label": "computer tower",
+   "status": "kept",
+   "n_verts": 7904
+  },
+  {
+   "obj_id": 41,
+   "label": "computer tower",
+   "status": "kept",
+   "n_verts": 13213
+  },
+  {
+   "obj_id": 42,
+   "label": "whiteboard",
+   "status": "kept",
+   "n_verts": 8372
+  },
+  {
+   "obj_id": 43,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 21625
+  },
+  {
+   "obj_id": 44,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 8466,
+   "a3d_link": [
+    "box.5.1"
+   ]
+  },
+  {
+   "obj_id": 45,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 3597,
+   "a3d_link": [
+    "box.6.1"
+   ]
+  },
+  {
+   "obj_id": 46,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 18001
+  },
+  {
+   "obj_id": 47,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 3921
+  },
+  {
+   "obj_id": 48,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 3742
+  },
+  {
+   "obj_id": 49,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 19981
+  },
+  {
+   "obj_id": 50,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 9127
+  },
+  {
+   "obj_id": 51,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 14294
+  },
+  {
+   "obj_id": 52,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 22321
+  },
+  {
+   "obj_id": 53,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 12821
+  },
+  {
+   "obj_id": 54,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 9164
+  },
+  {
+   "obj_id": 55,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 15673
+  },
+  {
+   "obj_id": 56,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 16582
+  },
+  {
+   "obj_id": 57,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 5385
+  },
+  {
+   "obj_id": 58,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 10548
+  },
+  {
+   "obj_id": 59,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 12068
+  },
+  {
+   "obj_id": 60,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 11822
+  },
+  {
+   "obj_id": 61,
+   "label": "monitor",
+   "status": "kept",
+   "n_verts": 17149
+  },
+  {
+   "obj_id": 62,
+   "label": "joined tables",
+   "status": "kept",
+   "n_verts": 27208
+  },
+  {
+   "obj_id": 63,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 16886,
+   "a3d_link": [
+    "door frame.3.1"
+   ]
+  },
+  {
+   "obj_id": 64,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 558235
+  },
+  {
+   "obj_id": 65,
+   "label": "door frame",
+   "status": "kept",
+   "n_verts": 5314
+  },
+  {
+   "obj_id": 66,
+   "label": "storage cabinet",
+   "status": "kept",
+   "n_verts": 13914
+  },
+  {
+   "obj_id": 67,
+   "label": "storage cabinet",
+   "status": "kept",
+   "n_verts": 14685
+  },
+  {
+   "obj_id": 68,
+   "label": "storage cabinet",
+   "status": "kept",
+   "n_verts": 13673
+  },
+  {
+   "obj_id": 69,
+   "label": "floor mounted air conditioner",
+   "status": "kept",
+   "n_verts": 96661
+  },
+  {
+   "obj_id": 70,
+   "label": "floor mounted air conditioner",
+   "status": "kept",
+   "n_verts": 85478
+  },
+  {
+   "obj_id": 71,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 125591
+  },
+  {
+   "obj_id": 72,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 108608
+  },
+  {
+   "obj_id": 73,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 4458
+  },
+  {
+   "obj_id": 74,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 128757
+  },
+  {
+   "obj_id": 75,
+   "label": "ceiling",
+   "status": "kept",
+   "n_verts": 462816
+  },
+  {
+   "obj_id": 76,
+   "label": "storage cabinet",
+   "status": "kept",
+   "n_verts": 23792
+  },
+  {
+   "obj_id": 77,
+   "label": "storage cabinet",
+   "status": "kept",
+   "n_verts": 10181
+  },
+  {
+   "obj_id": 78,
+   "label": "storage cabinet",
+   "status": "kept",
+   "n_verts": 19695
+  },
+  {
+   "obj_id": 79,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 12958
+  },
+  {
+   "obj_id": 80,
+   "label": "storage cabinet",
+   "status": "kept",
+   "n_verts": 18888
+  },
+  {
+   "obj_id": 81,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 15889,
+   "a3d_link": [
+    "door frame.1.1"
+   ]
+  },
+  {
+   "obj_id": 82,
+   "label": "door frame",
+   "status": "kept",
+   "n_verts": 3789
+  },
+  {
+   "obj_id": 83,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 12092
+  },
+  {
+   "obj_id": 84,
+   "label": "whiteboard",
+   "status": "kept",
+   "n_verts": 8303
+  },
+  {
+   "obj_id": 85,
+   "label": "whiteboard",
+   "status": "kept",
+   "n_verts": 9238
+  },
+  {
+   "obj_id": 86,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 14504,
+   "a3d_link": [
+    "cabinet.21.1"
+   ]
+  },
+  {
+   "obj_id": 87,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 12532
+  },
+  {
+   "obj_id": 88,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 16122,
+   "a3d_link": [
+    "cabinet.22.1"
+   ]
+  },
+  {
+   "obj_id": 89,
+   "label": "chair",
+   "status": "kept",
+   "n_verts": 62042
+  },
+  {
+   "obj_id": 90,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 21052
+  },
+  {
+   "obj_id": 91,
+   "label": "keyboard",
+   "status": "kept",
+   "n_verts": 1083
+  },
+  {
+   "obj_id": 92,
+   "label": "mouse",
+   "status": "kept",
+   "n_verts": 251
+  },
+  {
+   "obj_id": 93,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 4058,
+   "a3d_link": [
+    "box.7.1"
+   ]
+  },
+  {
+   "obj_id": 94,
+   "label": "keyboard",
+   "status": "kept",
+   "n_verts": 1366
+  },
+  {
+   "obj_id": 95,
+   "label": "mouse",
+   "status": "kept",
+   "n_verts": 200
+  },
+  {
+   "obj_id": 96,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 26626
+  },
+  {
+   "obj_id": 97,
+   "label": "computer tower",
+   "status": "kept",
+   "n_verts": 8063
+  },
+  {
+   "obj_id": 98,
+   "label": "computer tower",
+   "status": "kept",
+   "n_verts": 8389
+  },
+  {
+   "obj_id": 99,
+   "label": "computer tower",
+   "status": "kept",
+   "n_verts": 8006
+  },
+  {
+   "obj_id": 100,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 21157
+  },
+  {
+   "obj_id": 101,
+   "label": "keyboard",
+   "status": "kept",
+   "n_verts": 1319
+  },
+  {
+   "obj_id": 102,
+   "label": "mouse",
+   "status": "kept",
+   "n_verts": 242
+  },
+  {
+   "obj_id": 103,
+   "label": "mouse",
+   "status": "kept",
+   "n_verts": 258
+  },
+  {
+   "obj_id": 104,
+   "label": "mouse",
+   "status": "kept",
+   "n_verts": 175
+  },
+  {
+   "obj_id": 105,
+   "label": "keyboard",
+   "status": "kept",
+   "n_verts": 1375
+  },
+  {
+   "obj_id": 106,
+   "label": "keyboard",
+   "status": "kept",
+   "n_verts": 1187
+  },
+  {
+   "obj_id": 107,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 986
+  },
+  {
+   "obj_id": 108,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 19828
+  },
+  {
+   "obj_id": 109,
+   "label": "keyboard",
+   "status": "kept",
+   "n_verts": 910
+  },
+  {
+   "obj_id": 110,
+   "label": "mouse",
+   "status": "kept",
+   "n_verts": 243
+  },
+  {
+   "obj_id": 111,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 20474
+  },
+  {
+   "obj_id": 112,
+   "label": "whiteboard",
+   "status": "kept",
+   "n_verts": 8049
+  },
+  {
+   "obj_id": 113,
+   "label": "kettle",
+   "status": "kept",
+   "n_verts": 837
+  },
+  {
+   "obj_id": 114,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 6548
+  },
+  {
+   "obj_id": 115,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 15442
+  },
+  {
+   "obj_id": 116,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 3401,
+   "a3d_link": [
+    "cabinet.18.1"
+   ]
+  },
+  {
+   "obj_id": 117,
+   "label": "keyboard",
+   "status": "kept",
+   "n_verts": 1710
+  },
+  {
+   "obj_id": 118,
+   "label": "telephone",
+   "status": "kept",
+   "n_verts": 1300
+  },
+  {
+   "obj_id": 119,
+   "label": "keyboard",
+   "status": "kept",
+   "n_verts": 1468
+  },
+  {
+   "obj_id": 120,
+   "label": "mouse",
+   "status": "kept",
+   "n_verts": 210
+  },
+  {
+   "obj_id": 121,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 16321
+  },
+  {
+   "obj_id": 122,
+   "label": "computer tower",
+   "status": "kept",
+   "n_verts": 1332
+  },
+  {
+   "obj_id": 123,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 7896,
+   "a3d_link": [
+    "box.4.1"
+   ]
+  },
+  {
+   "obj_id": 124,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 15173
+  },
+  {
+   "obj_id": 125,
+   "label": "mouse",
+   "status": "kept",
+   "n_verts": 111
+  },
+  {
+   "obj_id": 126,
+   "label": "pedestal fan",
+   "status": "kept",
+   "n_verts": 18655
+  },
+  {
+   "obj_id": 127,
+   "label": "tripod",
+   "status": "kept",
+   "n_verts": 6886
+  },
+  {
+   "obj_id": 128,
+   "label": "office chair",
+   "status": "kept",
+   "n_verts": 11098
+  },
+  {
+   "obj_id": 129,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 22884
+  },
+  {
+   "obj_id": 130,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 6493
+  },
+  {
+   "obj_id": 131,
+   "label": "shelf",
+   "status": "kept",
+   "n_verts": 30913
+  },
+  {
+   "obj_id": 132,
+   "label": "shelf",
+   "status": "kept",
+   "n_verts": 48335
+  },
+  {
+   "obj_id": 133,
+   "label": "machine",
+   "status": "kept",
+   "n_verts": 6119
+  },
+  {
+   "obj_id": 134,
+   "label": "printer",
+   "status": "kept",
+   "n_verts": 6331
+  },
+  {
+   "obj_id": 135,
+   "label": "mug",
+   "status": "kept",
+   "n_verts": 275
+  },
+  {
+   "obj_id": 136,
+   "label": "jug",
+   "status": "kept",
+   "n_verts": 1248
+  },
+  {
+   "obj_id": 137,
+   "label": "books",
+   "status": "kept",
+   "n_verts": 2680
+  },
+  {
+   "obj_id": 138,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 772
+  },
+  {
+   "obj_id": 139,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 1198
+  },
+  {
+   "obj_id": 140,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 3476
+  },
+  {
+   "obj_id": 141,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 5948
+  },
+  {
+   "obj_id": 142,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 3741
+  },
+  {
+   "obj_id": 143,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 2838
+  },
+  {
+   "obj_id": 144,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 2599
+  },
+  {
+   "obj_id": 145,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 4434
+  },
+  {
+   "obj_id": 146,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 3696
+  },
+  {
+   "obj_id": 147,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 4078
+  },
+  {
+   "obj_id": 148,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 4570
+  },
+  {
+   "obj_id": 149,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 3849
+  },
+  {
+   "obj_id": 150,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 4032
+  },
+  {
+   "obj_id": 151,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 6738
+  },
+  {
+   "obj_id": 152,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 5474
+  },
+  {
+   "obj_id": 153,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 5296
+  },
+  {
+   "obj_id": 154,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 5271
+  },
+  {
+   "obj_id": 155,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 4845
+  },
+  {
+   "obj_id": 156,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 4480
+  },
+  {
+   "obj_id": 157,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 5341
+  },
+  {
+   "obj_id": 158,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 4919
+  },
+  {
+   "obj_id": 159,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 4293
+  },
+  {
+   "obj_id": 160,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 3492
+  },
+  {
+   "obj_id": 161,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 4626
+  },
+  {
+   "obj_id": 162,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 4019
+  },
+  {
+   "obj_id": 163,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 4245
+  },
+  {
+   "obj_id": 164,
+   "label": "ceiling lamp",
+   "status": "kept",
+   "n_verts": 3409
+  },
+  {
+   "obj_id": 165,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 5220
+  },
+  {
+   "obj_id": 166,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 5594
+  },
+  {
+   "obj_id": 167,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 6884
+  },
+  {
+   "obj_id": 168,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 8219
+  },
+  {
+   "obj_id": 169,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 6252
+  },
+  {
+   "obj_id": 170,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 6359
+  },
+  {
+   "obj_id": 171,
+   "label": "window",
+   "status": "kept",
+   "n_verts": 5945
+  },
+  {
+   "obj_id": 172,
+   "label": "machine",
+   "status": "kept",
+   "n_verts": 28217
+  },
+  {
+   "obj_id": 173,
+   "label": "spotlight",
+   "status": "kept",
+   "n_verts": 10729
+  },
+  {
+   "obj_id": 174,
+   "label": "spotlight",
+   "status": "kept",
+   "n_verts": 10418
+  },
+  {
+   "obj_id": 175,
+   "label": "table",
+   "status": "kept",
+   "n_verts": 31640,
+   "a3d_link": [
+    "desk.20.1"
+   ]
+  },
+  {
+   "obj_id": 176,
+   "label": "table lamp",
+   "status": "kept",
+   "n_verts": 2850
+  },
+  {
+   "obj_id": 177,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 2366
+  },
+  {
+   "obj_id": 178,
+   "label": "box",
+   "status": "kept",
+   "n_verts": 14167
+  },
+  {
+   "obj_id": 179,
+   "label": "computer tower",
+   "status": "kept",
+   "n_verts": 7500
+  },
+  {
+   "obj_id": 180,
+   "label": "computer tower",
+   "status": "kept",
+   "n_verts": 20715
+  },
+  {
+   "obj_id": 181,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 5734,
+   "a3d_link": [
+    "cabinet.23.1"
+   ]
+  },
+  {
+   "obj_id": 182,
+   "label": "trash bin",
+   "status": "kept",
+   "n_verts": 4580
+  },
+  {
+   "obj_id": 183,
+   "label": "trash bin",
+   "status": "kept",
+   "n_verts": 4518
+  },
+  {
+   "obj_id": 184,
+   "label": "oscilloscope",
+   "status": "kept",
+   "n_verts": 5656
+  },
+  {
+   "obj_id": 185,
+   "label": "lab equipment",
+   "status": "kept",
+   "n_verts": 3919
+  },
+  {
+   "obj_id": 186,
+   "label": "lab equipment",
+   "status": "kept",
+   "n_verts": 2479
+  },
+  {
+   "obj_id": 187,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1978
+  }
+ ]
+}

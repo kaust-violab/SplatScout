@@ -1,0 +1,340 @@
+{
+ "scene_id": "c50d2d1d42",
+ "version": "v5",
+ "n_queries": 22,
+ "queries": [
+  {
+   "qid": "q3648228257",
+   "text": "the upper hinge on the blue door of the office",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P3",
+     "part_id": "obj38_hinge_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q99e5707b0c",
+   "text": "the cabinet door nearest to the blue entrance door",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P5",
+     "part_id": "obj96_door_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q4d4df6d7ec",
+   "text": "the lid of the white box standing next to the disinfectant spray",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P12",
+     "part_id": "obj41_box_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qa00141db1e",
+   "text": "the black cap on top of the metal vacuum flask",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P13",
+     "part_id": "obj21_cap_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qfe863fe0c6",
+   "text": "the lid of the upper cardboard carton in the stack by the cabinets",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P19",
+     "part_id": "obj94_box_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qd0cc33eeee",
+   "text": "the padded ear cups of the black headphones on the desk",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P21",
+     "part_id": "obj18_speaker_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q5ccff96ff9",
+   "text": "the row of black hooks on the wall-mounted coat rack",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P22",
+     "part_id": "orphan_hook_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q76b4c1ac1b",
+   "text": "the silver lever handle of the blue office door",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P1",
+     "part_id": "obj38_handle_base_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q90251af9f8",
+   "text": "the keyboard on the desk that has no number pad",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "72",
+     "obj_id": 72
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q3c4430285a",
+   "text": "the tall cabinet with the stacked cardboard cartons leaning against its doors",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "73",
+     "obj_id": 73
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q696d3de61e",
+   "text": "the office chair with the round padded backrest",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "61",
+     "obj_id": 61
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qc6aa1b41f4",
+   "text": "the mouse parked at the number-pad end of the full-size keyboard",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "69",
+     "obj_id": 69
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qb9bd9732ca",
+   "text": "the mug standing directly beside the black cap of the vacuum flask",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "20",
+     "obj_id": 20
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q593b3204bd",
+   "text": "the ceiling lamp hanging closest to the hooks of the coat rack",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "77",
+     "obj_id": 77
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q6f890fa014",
+   "text": "the monitor standing directly beside the metal vacuum flask",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "22",
+     "obj_id": 22
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q93a2df62de",
+   "text": "the window that is tilted open at the top",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "39",
+     "obj_id": 39
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q56d9a670f2",
+   "text": "the blue bin lined with a white plastic bag",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "48",
+     "obj_id": 48
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q7131f8d56a",
+   "text": "the desk with the small yellow box sitting between its two monitors",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "76",
+     "obj_id": 76
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q471647265c",
+   "text": "the keyboard lying directly beside the black mouse pad",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "59",
+     "obj_id": 59
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qaab28edf17",
+   "text": "the mug standing immediately next to the black headphones",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "17",
+     "obj_id": 17
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q5724c7341d",
+   "text": "the two monitors parked on top of the tall cabinets",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "58",
+     "obj_id": 58
+    },
+    {
+     "kind": "obj",
+     "tag": "87",
+     "obj_id": 87
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q76155d54f2",
+   "text": "the row of plastic bottles standing on the desk",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "29",
+     "obj_id": 29
+    },
+    {
+     "kind": "obj",
+     "tag": "30",
+     "obj_id": 30
+    },
+    {
+     "kind": "obj",
+     "tag": "31",
+     "obj_id": 31
+    },
+    {
+     "kind": "obj",
+     "tag": "32",
+     "obj_id": 32
+    },
+    {
+     "kind": "obj",
+     "tag": "33",
+     "obj_id": 33
+    }
+   ],
+   "needs_id": false
+  }
+ ]
+}

@@ -1,0 +1,762 @@
+{
+ "scene_id": "e7af285f7d",
+ "n_vertices": 1138546,
+ "objects": [
+  {
+   "obj_id": 1,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 2017
+  },
+  {
+   "obj_id": 2,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 17399
+  },
+  {
+   "obj_id": 3,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 1015
+  },
+  {
+   "obj_id": 4,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1520
+  },
+  {
+   "obj_id": 5,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 14285
+  },
+  {
+   "obj_id": 6,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 7219
+  },
+  {
+   "obj_id": 7,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 28489
+  },
+  {
+   "obj_id": 8,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 4437
+  },
+  {
+   "obj_id": 9,
+   "label": "shower tap",
+   "status": "kept",
+   "n_verts": 1517
+  },
+  {
+   "obj_id": 10,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1079
+  },
+  {
+   "obj_id": 11,
+   "label": "shower ceiling",
+   "status": "kept",
+   "n_verts": 13966
+  },
+  {
+   "obj_id": 12,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 148
+  },
+  {
+   "obj_id": 13,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 7541
+  },
+  {
+   "obj_id": 14,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 7760
+  },
+  {
+   "obj_id": 15,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 68554
+  },
+  {
+   "obj_id": 16,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 52535,
+   "a3d_link": [
+    "cabinet.3.1"
+   ]
+  },
+  {
+   "obj_id": 17,
+   "label": "shower",
+   "status": "kept",
+   "n_verts": 2382
+  },
+  {
+   "obj_id": 18,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 27516,
+   "a3d_link": [
+    "door frame.1.1"
+   ]
+  },
+  {
+   "obj_id": 19,
+   "label": "door",
+   "status": "kept",
+   "n_verts": 47065,
+   "a3d_link": [
+    "door frame.2.1"
+   ]
+  },
+  {
+   "obj_id": 20,
+   "label": "blinds",
+   "status": "kept",
+   "n_verts": 8700,
+   "a3d_link": [
+    "blinds rail.8.1"
+   ]
+  },
+  {
+   "obj_id": 21,
+   "label": "ceiling light",
+   "status": "kept",
+   "n_verts": 586
+  },
+  {
+   "obj_id": 22,
+   "label": "shower head",
+   "status": "kept",
+   "n_verts": 1686
+  },
+  {
+   "obj_id": 23,
+   "label": "shower wall",
+   "status": "kept",
+   "n_verts": 44342
+  },
+  {
+   "obj_id": 24,
+   "label": "shower wall",
+   "status": "kept",
+   "n_verts": 83704
+  },
+  {
+   "obj_id": 25,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 16636
+  },
+  {
+   "obj_id": 26,
+   "label": "soap bottle",
+   "status": "kept",
+   "n_verts": 1066
+  },
+  {
+   "obj_id": 27,
+   "label": "bar soap",
+   "status": "kept",
+   "n_verts": 353
+  },
+  {
+   "obj_id": 28,
+   "label": "soap bottle",
+   "status": "kept",
+   "n_verts": 807,
+   "a3d_link": [
+    "soap dispenser.18.1"
+   ]
+  },
+  {
+   "obj_id": 29,
+   "label": "soap bottle",
+   "status": "kept",
+   "n_verts": 1681,
+   "a3d_link": [
+    "soap dispenser.19.1"
+   ]
+  },
+  {
+   "obj_id": 30,
+   "label": "soap bottle",
+   "status": "kept",
+   "n_verts": 1520,
+   "a3d_link": [
+    "soap dispenser.17.1"
+   ]
+  },
+  {
+   "obj_id": 31,
+   "label": "shower floor",
+   "status": "kept",
+   "n_verts": 30385
+  },
+  {
+   "obj_id": 32,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 12043,
+   "a3d_link": [
+    "cabinet.6.1"
+   ]
+  },
+  {
+   "obj_id": 33,
+   "label": "door frame",
+   "status": "kept",
+   "n_verts": 12945
+  },
+  {
+   "obj_id": 34,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 324
+  },
+  {
+   "obj_id": 35,
+   "label": "light switch",
+   "status": "kept",
+   "n_verts": 168,
+   "a3d_link": [
+    "switch base.12.1"
+   ]
+  },
+  {
+   "obj_id": 36,
+   "label": "light switch",
+   "status": "kept",
+   "n_verts": 230,
+   "a3d_link": [
+    "switch base.13.1"
+   ]
+  },
+  {
+   "obj_id": 37,
+   "label": "light switch",
+   "status": "kept",
+   "n_verts": 299,
+   "a3d_link": [
+    "switch base.14.1"
+   ]
+  },
+  {
+   "obj_id": 38,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 15364
+  },
+  {
+   "obj_id": 39,
+   "label": "mirror",
+   "status": "kept",
+   "n_verts": 3155
+  },
+  {
+   "obj_id": 40,
+   "label": "cabinet",
+   "status": "kept",
+   "n_verts": 43140,
+   "a3d_link": [
+    "cabinet.4.1"
+   ]
+  },
+  {
+   "obj_id": 41,
+   "label": "picture",
+   "status": "kept",
+   "n_verts": 563
+  },
+  {
+   "obj_id": 42,
+   "label": "trash bin",
+   "status": "kept",
+   "n_verts": 3080,
+   "a3d_link": [
+    "trash can.7.1"
+   ]
+  },
+  {
+   "obj_id": 43,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 77411
+  },
+  {
+   "obj_id": 44,
+   "label": "shower rug",
+   "status": "kept",
+   "n_verts": 7416
+  },
+  {
+   "obj_id": 45,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 2589
+  },
+  {
+   "obj_id": 46,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 1273
+  },
+  {
+   "obj_id": 47,
+   "label": "washbasin",
+   "status": "kept",
+   "n_verts": 3404,
+   "a3d_link": [
+    "sink.9.1"
+   ]
+  },
+  {
+   "obj_id": 48,
+   "label": "water tap",
+   "status": "kept",
+   "n_verts": 646
+  },
+  {
+   "obj_id": 49,
+   "label": "light",
+   "status": "kept",
+   "n_verts": 2421
+  },
+  {
+   "obj_id": 50,
+   "label": "mirror",
+   "status": "kept",
+   "n_verts": 4121
+  },
+  {
+   "obj_id": 51,
+   "label": "light",
+   "status": "kept",
+   "n_verts": 2239
+  },
+  {
+   "obj_id": 52,
+   "label": "REMOVE",
+   "status": "dropped",
+   "n_verts": 83
+  },
+  {
+   "obj_id": 53,
+   "label": "light",
+   "status": "kept",
+   "n_verts": 2063
+  },
+  {
+   "obj_id": 54,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 52849
+  },
+  {
+   "obj_id": 55,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 5223
+  },
+  {
+   "obj_id": 56,
+   "label": "windowsill",
+   "status": "kept",
+   "n_verts": 1561
+  },
+  {
+   "obj_id": 57,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1436
+  },
+  {
+   "obj_id": 58,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1126
+  },
+  {
+   "obj_id": 59,
+   "label": "bathtub",
+   "status": "kept",
+   "n_verts": 17011,
+   "a3d_link": [
+    "bathtub.20.1"
+   ]
+  },
+  {
+   "obj_id": 60,
+   "label": "water tap",
+   "status": "kept",
+   "n_verts": 963
+  },
+  {
+   "obj_id": 61,
+   "label": "soap bottle",
+   "status": "kept",
+   "n_verts": 657
+  },
+  {
+   "obj_id": 62,
+   "label": "soap bottle",
+   "status": "kept",
+   "n_verts": 427
+  },
+  {
+   "obj_id": 63,
+   "label": "soap bottle",
+   "status": "kept",
+   "n_verts": 273
+  },
+  {
+   "obj_id": 64,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 942
+  },
+  {
+   "obj_id": 65,
+   "label": "toothpaste",
+   "status": "kept",
+   "n_verts": 193
+  },
+  {
+   "obj_id": 66,
+   "label": "toothpaste",
+   "status": "kept",
+   "n_verts": 274
+  },
+  {
+   "obj_id": 67,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 26
+  },
+  {
+   "obj_id": 68,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 55
+  },
+  {
+   "obj_id": 69,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 92
+  },
+  {
+   "obj_id": 70,
+   "label": "bottle",
+   "status": "kept",
+   "n_verts": 369
+  },
+  {
+   "obj_id": 71,
+   "label": "ceilng light",
+   "status": "kept",
+   "n_verts": 338
+  },
+  {
+   "obj_id": 72,
+   "label": "ceilng light",
+   "status": "kept",
+   "n_verts": 111
+  },
+  {
+   "obj_id": 73,
+   "label": "ceilng light",
+   "status": "kept",
+   "n_verts": 280
+  },
+  {
+   "obj_id": 74,
+   "label": "ceilng light",
+   "status": "kept",
+   "n_verts": 223
+  },
+  {
+   "obj_id": 75,
+   "label": "ceilng light",
+   "status": "kept",
+   "n_verts": 278
+  },
+  {
+   "obj_id": 76,
+   "label": "ceilng light",
+   "status": "kept",
+   "n_verts": 216
+  },
+  {
+   "obj_id": 77,
+   "label": "ceilng light",
+   "status": "kept",
+   "n_verts": 212
+  },
+  {
+   "obj_id": 78,
+   "label": "smoke detector",
+   "status": "kept",
+   "n_verts": 141
+  },
+  {
+   "obj_id": 79,
+   "label": "ventilation",
+   "status": "kept",
+   "n_verts": 588
+  },
+  {
+   "obj_id": 80,
+   "label": "ventilation",
+   "status": "kept",
+   "n_verts": 567
+  },
+  {
+   "obj_id": 81,
+   "label": "door frame",
+   "status": "kept",
+   "n_verts": 1807
+  },
+  {
+   "obj_id": 82,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 736
+  },
+  {
+   "obj_id": 83,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 11704
+  },
+  {
+   "obj_id": 84,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 22476
+  },
+  {
+   "obj_id": 85,
+   "label": "floor",
+   "status": "kept",
+   "n_verts": 16299
+  },
+  {
+   "obj_id": 86,
+   "label": "paper",
+   "status": "kept",
+   "n_verts": 475
+  },
+  {
+   "obj_id": 87,
+   "label": "windowsill",
+   "status": "kept",
+   "n_verts": 464
+  },
+  {
+   "obj_id": 88,
+   "label": "shower wall",
+   "status": "kept",
+   "n_verts": 54465
+  },
+  {
+   "obj_id": 89,
+   "label": "REMOVE",
+   "status": "dropped",
+   "n_verts": 4299
+  },
+  {
+   "obj_id": 90,
+   "label": "folding chair",
+   "status": "kept",
+   "n_verts": 4472
+  },
+  {
+   "obj_id": 91,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 8261
+  },
+  {
+   "obj_id": 92,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 3065
+  },
+  {
+   "obj_id": 93,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 2600
+  },
+  {
+   "obj_id": 94,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 2487
+  },
+  {
+   "obj_id": 95,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 1978
+  },
+  {
+   "obj_id": 96,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 1280
+  },
+  {
+   "obj_id": 97,
+   "label": "wall",
+   "status": "kept",
+   "n_verts": 822
+  },
+  {
+   "obj_id": 98,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 7659
+  },
+  {
+   "obj_id": 99,
+   "label": "toilet paper",
+   "status": "kept",
+   "n_verts": 531
+  },
+  {
+   "obj_id": 100,
+   "label": "toilet brush",
+   "status": "kept",
+   "n_verts": 915
+  },
+  {
+   "obj_id": 101,
+   "label": "structure",
+   "status": "dropped",
+   "n_verts": 14614,
+   "a3d_link": [
+    "toilet.10.1"
+   ]
+  },
+  {
+   "obj_id": 102,
+   "label": "power socket",
+   "status": "kept",
+   "n_verts": 150
+  },
+  {
+   "obj_id": 103,
+   "label": "light",
+   "status": "kept",
+   "n_verts": 1780
+  },
+  {
+   "obj_id": 104,
+   "label": "light",
+   "status": "kept",
+   "n_verts": 1031
+  },
+  {
+   "obj_id": 105,
+   "label": "light",
+   "status": "kept",
+   "n_verts": 1256
+  },
+  {
+   "obj_id": 106,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 784
+  },
+  {
+   "obj_id": 107,
+   "label": "ceiling vent",
+   "status": "kept",
+   "n_verts": 4112
+  },
+  {
+   "obj_id": 108,
+   "label": "ceiling light",
+   "status": "kept",
+   "n_verts": 327
+  },
+  {
+   "obj_id": 109,
+   "label": "smoke detector",
+   "status": "kept",
+   "n_verts": 43
+  },
+  {
+   "obj_id": 110,
+   "label": "ceiling vent",
+   "status": "kept",
+   "n_verts": 3112
+  },
+  {
+   "obj_id": 111,
+   "label": "SPLIT",
+   "status": "dropped",
+   "n_verts": 5704
+  },
+  {
+   "obj_id": 112,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 364
+  },
+  {
+   "obj_id": 113,
+   "label": "shelf",
+   "status": "kept",
+   "n_verts": 8396
+  },
+  {
+   "obj_id": 114,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1638
+  },
+  {
+   "obj_id": 115,
+   "label": "towel",
+   "status": "kept",
+   "n_verts": 4264
+  },
+  {
+   "obj_id": 116,
+   "label": "heater",
+   "status": "kept",
+   "n_verts": 12639
+  },
+  {
+   "obj_id": 117,
+   "label": "bath mat",
+   "status": "kept",
+   "n_verts": 10145
+  },
+  {
+   "obj_id": 118,
+   "label": "object",
+   "status": "dropped",
+   "n_verts": 1266
+  }
+ ]
+}

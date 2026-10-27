@@ -1,0 +1,325 @@
+{
+ "scene_id": "d755b3d9d8",
+ "version": "v5",
+ "n_queries": 22,
+ "queries": [
+  {
+   "qid": "q59ab4aba9f",
+   "text": "the top drawer of the metal cabinet that the two printers stand on",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P21",
+     "part_id": "obj8_drawer_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q6c2bc60fa9",
+   "text": "the middle drawer of the cabinet standing under the laptop",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P31",
+     "part_id": "obj10_drawer_2"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q3fb22d38e6",
+   "text": "the top drawer of the little cabinet under the desk below the calendar",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P40",
+     "part_id": "obj11_drawer_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q74cebc871b",
+   "text": "the lid of the cardboard box on the desk with the red mug",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P51",
+     "part_id": "obj44_box_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q37922b9424",
+   "text": "the metal handle on the wooden entrance door",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P1",
+     "part_id": "orphan_handle_base_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q13c844aa02",
+   "text": "the tall cupboard door standing closest to the hanging lab coats",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P17",
+     "part_id": "obj7_cabinet_door_6"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qefe5d482fb",
+   "text": "the top drawer of the cabinet standing beside the blue office chair",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P24",
+     "part_id": "obj9_drawer_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q3b96db72e7",
+   "text": "the office chair with the blue seat cushion",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "12",
+     "obj_id": 12
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qa5bbb756b4",
+   "text": "the office chair with an armrest on each side",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "14",
+     "obj_id": 14
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qcbac0b14b8",
+   "text": "the printer that has a flatbed scanner lid on its top",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "50",
+     "obj_id": 50
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q2f217c0e5d",
+   "text": "the lab coat hanging closest to the door",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "22",
+     "obj_id": 22
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q0d3e2fc3e2",
+   "text": "the trash bin pushed hard against the bottom drawer of the metal cabinet",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "77",
+     "obj_id": 77
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qbe514b8940",
+   "text": "the trash bin standing between the purple bin and the yellow bucket",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "76",
+     "obj_id": 76
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q3634901226",
+   "text": "the monitor standing immediately beside the little potted plant on the desk",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "84",
+     "obj_id": 84
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qc994242280",
+   "text": "the tallest of the plants standing on the windowsill",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "62",
+     "obj_id": 62
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q4284e5148b",
+   "text": "the bottle standing on the desk beside the laptop",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "93",
+     "obj_id": 93
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q68e0739977",
+   "text": "the computer mouse lying next to the red mug",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "39",
+     "obj_id": 39
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q2cbd3426aa",
+   "text": "the row of books on the highest shelf of the cupboard",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "102",
+     "obj_id": 102
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q74e23940d0",
+   "text": "the desk with the roll of paper towels standing on it",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "101",
+     "obj_id": 101
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q8a070a72f4",
+   "text": "the folder standing upright against the wall on a desk",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "82",
+     "obj_id": 82
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q07c03da43c",
+   "text": "the cardboard boxes stacked on top of the tall cupboard",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "24",
+     "obj_id": 24
+    },
+    {
+     "kind": "obj",
+     "tag": "25",
+     "obj_id": 25
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qea6e41875e",
+   "text": "the two long ceiling lamps hanging over the desks",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "37",
+     "obj_id": 37
+    },
+    {
+     "kind": "obj",
+     "tag": "99",
+     "obj_id": 99
+    }
+   ],
+   "needs_id": false
+  }
+ ]
+}

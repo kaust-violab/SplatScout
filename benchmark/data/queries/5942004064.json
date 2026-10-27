@@ -1,0 +1,326 @@
+{
+ "scene_id": "5942004064",
+ "version": "v5",
+ "n_queries": 21,
+ "queries": [
+  {
+   "qid": "q8af6ac0060",
+   "text": "the top drawer of the white desk beside the bedside table",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P5",
+     "part_id": "obj75_drawer_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q4bcde757fa",
+   "text": "the handle of the open door beside the tall shelf unit",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P10",
+     "part_id": "orphan_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q388fb86cf4",
+   "text": "the middle one of the three tall cupboard doors in the hall",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P19",
+     "part_id": "obj5_door_5"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q17ea97a0fe",
+   "text": "the long fretboard of the black acoustic guitar",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P35",
+     "part_id": "obj66_fretboard_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qa5c413d433",
+   "text": "the headstock at the top of the black guitar",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P36",
+     "part_id": "obj66_headstock_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q0aeaf1080f",
+   "text": "the dark blue seat cushion of the white folding chair",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P37",
+     "part_id": "obj36_pillow_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q582094e0ad",
+   "text": "the wooden legs of the dark blue velvet armchair",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P38",
+     "part_id": "obj24_leg_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q1f2bdd9ca6",
+   "text": "the table that stands on four slim wooden legs",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "115",
+     "obj_id": 115
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qfbfc6e864e",
+   "text": "the door with a large glass pane set into it",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "11",
+     "obj_id": 11
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qf4ca09850a",
+   "text": "the cloth bag hanging just above the guitar's headstock",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "64",
+     "obj_id": 64
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qa0e1495115",
+   "text": "the photo frame standing on the desk right above its drawers",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "90",
+     "obj_id": 90
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q2a33839f8a",
+   "text": "the tall plant standing right next to the television",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "59",
+     "obj_id": 59
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q54e8aa1196",
+   "text": "the plant with red and yellow leaves standing on the radiator",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "129",
+     "obj_id": 129
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q9f45062081",
+   "text": "the plant standing on a white plate on the dining table",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "122",
+     "obj_id": 122
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q5442c7fc9b",
+   "text": "the pillow lying on the sofa nearest the television",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "28",
+     "obj_id": 28
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q30519705ab",
+   "text": "the box in the tv stand closest to the big black plant pot",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "148",
+     "obj_id": 148
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q0e2826234d",
+   "text": "the photo frame standing on the shelf above the bed",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "67",
+     "obj_id": 67
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q1898a7fc3b",
+   "text": "the chair drawn up to the dining table",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "36",
+     "obj_id": 36
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q7b73587753",
+   "text": "the two dark floral pillows at the head of the bed",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "155",
+     "obj_id": 155
+    },
+    {
+     "kind": "obj",
+     "tag": "156",
+     "obj_id": 156
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qf636c49af8",
+   "text": "the golden chocolate bunnies inside the white TV stand",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "149",
+     "obj_id": 149
+    },
+    {
+     "kind": "obj",
+     "tag": "150",
+     "obj_id": 150
+    },
+    {
+     "kind": "obj",
+     "tag": "151",
+     "obj_id": 151
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q05f4cc359c",
+   "text": "the round woven placemats lying on the dining table",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "116",
+     "obj_id": 116
+    },
+    {
+     "kind": "obj",
+     "tag": "118",
+     "obj_id": 118
+    },
+    {
+     "kind": "obj",
+     "tag": "119",
+     "obj_id": 119
+    }
+   ],
+   "needs_id": false
+  }
+ ]
+}

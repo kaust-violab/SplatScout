@@ -1,0 +1,4 @@
+The PartRef-ScanNet++ annotations and queries (everything under benchmark/data/) are
+licensed under CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Vertex indices refer to the ScanNet++ meshes (https://scannetpp.mpi-inf.mpg.de/);
+part annotations build on Articulate3D (https://github.com/insait-institute/Articulate3D).

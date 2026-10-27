@@ -1,0 +1,405 @@
+{
+ "scene_id": "0d2ee665be",
+ "version": "v5",
+ "n_queries": 27,
+ "queries": [
+  {
+   "qid": "q916df01722",
+   "text": "the lid of the instant pot",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P38",
+     "part_id": "obj77_lid_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q8f31b53e3a",
+   "text": "the handle of the kettle",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P39",
+     "part_id": "obj74_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q3d3b38ee0a",
+   "text": "the faucet over the sink",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P30",
+     "part_id": "obj27_faucet_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qca53dda35a",
+   "text": "the screen of the microwave",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P28",
+     "part_id": "obj86_door_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qa63a97a48c",
+   "text": "the screen of the laptop",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P40",
+     "part_id": "obj52_screen_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qe720a6c439",
+   "text": "the backrest of the desk chair",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P41",
+     "part_id": "obj35_backrest_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q9ff0142fbc",
+   "text": "the handle of the kitchen cabinet that holds the microwave",
+   "role": "part_target",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "part",
+     "tag": "P26",
+     "part_id": "obj25_handle_1"
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qb2dee09826",
+   "text": "the backpack with shoulder straps resting on the floor beside the nightstand",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "38",
+     "obj_id": 38
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q9c9a020db0",
+   "text": "the kitchen cabinet with wood-grain doors",
+   "role": "part_discriminator",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "25",
+     "obj_id": 25
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q29a6bc1f03",
+   "text": "the gray towel draped over the top rail of the black shelf",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "70",
+     "obj_id": 70
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q0c50fde2ce",
+   "text": "the white towel hanging from the side rail of the black shelf",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "71",
+     "obj_id": 71
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q90807aab18",
+   "text": "the black jacket hanging from the middle wall hook",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "9",
+     "obj_id": 9
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q7f1f429997",
+   "text": "the backpack hanging on the backrest of the chair",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "39",
+     "obj_id": 39
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q91f08dc650",
+   "text": "the mug standing closer to the sink than to the cooktop",
+   "role": "part_anchor",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "17",
+     "obj_id": 17
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q702ce165c2",
+   "text": "the gray pillow",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "45",
+     "obj_id": 45
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qd8c7dcb78a",
+   "text": "the pillow with red stripes",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "46",
+     "obj_id": 46
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qaccde93ba8",
+   "text": "the mug beside the cooktop",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "16",
+     "obj_id": 16
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q8875ed9a88",
+   "text": "the white pot between the instant pot and the frying pan",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "81",
+     "obj_id": 81
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qf8f0e5a114",
+   "text": "the shelf holding the instant pot",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "78",
+     "obj_id": 78
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qa70c197096",
+   "text": "the box supporting the striped hamper",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "6",
+     "obj_id": 6
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q7d24e81b67",
+   "text": "the highest box on the book shelf",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "87",
+     "obj_id": 87
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q14c0a9b1a9",
+   "text": "the blanket piled on the bed",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "47",
+     "obj_id": 47
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q6feb6805d3",
+   "text": "the jacket closest to the entrance door",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "9",
+     "obj_id": 9
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q37ce2a6f1d",
+   "text": "the clothes folded flat and tucked under the striped laundry hamper",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "94",
+     "obj_id": 94
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "q896b3145de",
+   "text": "the baseball cap hanging from the wall hook",
+   "role": "object",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "1",
+     "obj_id": 1
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qaa28b73bcb",
+   "text": "the pillows on the bed",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "45",
+     "obj_id": 45
+    },
+    {
+     "kind": "obj",
+     "tag": "46",
+     "obj_id": 46
+    }
+   ],
+   "needs_id": false
+  },
+  {
+   "qid": "qf9fe2272ef",
+   "text": "the kitchen utensils hanging above the counter",
+   "role": "multi",
+   "status": "active",
+   "targets": [
+    {
+     "kind": "obj",
+     "tag": "10",
+     "obj_id": 10
+    },
+    {
+     "kind": "obj",
+     "tag": "18",
+     "obj_id": 18
+    },
+    {
+     "kind": "obj",
+     "tag": "19",
+     "obj_id": 19
+    },
+    {
+     "kind": "obj",
+     "tag": "20",
+     "obj_id": 20
+    }
+   ],
+   "needs_id": false
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "door.1.1.2_1": "drop",
+ "switch.11.1.2_1": "drop",
+ "switch.12.1.2_1": "drop",
+ "switch.14.1.2_1": "drop",
+ "door.13.1.2_1": "keep",
+ "window.7.1.2_1": "drop",
+ "door.13.1.2_2": "keep",
+ "window.6.1.2_1": "drop",
+ "trash can lid.9.1.2_1": "keep",
+ "light switch.10.1.2_1": "drop",
+ "window.15.1.2_1": "drop",
+ "trash can lid.8.1.2_1": "keep",
+ "window.5.1.2_2": "drop",
+ "door.16.1.2_2": "keep"
+}

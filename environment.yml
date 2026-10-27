@@ -1,0 +1,25 @@
+name: splatscout
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu128
+      - torch==2.8.0
+      - torchvision==0.23.0
+      - gsplat==1.5.1
+      - numpy==2.2.6
+      - scipy==1.15.3
+      - scikit-learn==1.7.2
+      - opencv-python
+      - pillow==12.3.0
+      - trimesh==4.12.2
+      - embreex==4.4.0
+      - plyfile==1.1.5
+      - torchmetrics==1.9.0
+      - requests==2.34.2
+      - tqdm==4.68.3
+      - viser==1.0.30
+      - huggingface_hub
+      # SAM 3 is installed separately: pip install git+https://github.com/facebookresearch/sam3.git

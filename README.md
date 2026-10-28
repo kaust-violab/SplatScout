@@ -1,7 +1,7 @@
 # SplatScout
 
 Query-driven, closed-loop part-level referring segmentation in 2D Gaussian Splatting scenes, with the PartRef-ScanNet++ benchmark.
-Paper: arXiv TBD.
+Paper: [arXiv:2610.37098](https://doi.org/10.48550/arXiv.2610.37098)
 
 ```
 splatscout/   method: VLM controller loop, Navigator / Segmenter / Lifter tools, SAM 3 wrapper, scene preprocessing, viewers
@@ -60,10 +60,10 @@ Code: MIT. Benchmark data: CC BY-NC-SA 4.0.
 ## Citation
 
 ```bibtex
-@article{splatscout2026,
+@article{zang2026splatscout,
   title   = {SplatScout: Query-Driven Part-Level Referring Segmentation in Gaussian Scenes},
-  author  = {TODO},
-  journal = {arXiv preprint arXiv:TODO},
+  author  = {Zang, Yihan and Li, Da and Park, Shinkyu and Viola, Ivan and Engel, Dominik},
+  journal = {arXiv preprint arXiv:2610.37098},
   year    = {2026}
 }
 ```
